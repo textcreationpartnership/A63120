@@ -1,0 +1,1577 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short history of standing armies in England</title>
+            <author>Trenchard, John, 1662-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 128 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63120</idno>
+            <idno type="STC">Wing T2115</idno>
+            <idno type="STC">ESTC R39727</idno>
+            <idno type="EEBO-CITATION">18477334</idno>
+            <idno type="OCLC">ocm 18477334</idno>
+            <idno type="VID">107814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107814)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1644:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short history of standing armies in England</title>
+                  <author>Trenchard, John, 1662-1723.</author>
+               </titleStmt>
+               <extent>viii, 46, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed:</pubPlace>
+                  <date>MDCXCVIII [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Trenchard by Wing and NUC pre-1956 imprints.</note>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History.</term>
+               <term>Great Britain --  History, Military --  1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107814:1"/>
+            <pb facs="tcp:107814:1" rendition="simple:additions"/>
+            <p>A Short HISTORY OF Standing Armies IN ENGLAND.</p>
+            <q>
+               <l>—Capti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dolis, doniſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> coacti,</l>
+               <l>Quos ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Tydides, nec Lariſſaeus Achilles,</l>
+               <l>Non anni domuere decem, non mille Carinae.</l>
+               <bibl>
+                  <hi>Virg. Aen. ii.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXCVIII.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:107814:2"/>
+            <pb n="iii" facs="tcp:107814:2"/>
+            <head>The PREFACE.</head>
+            <p>THERE is nothing in which the generality of Mankind are ſo much miſtaken as when they talk of Government. The different Effects of it are obvious to every one, but few can trace its Cauſes. Moſt Men having indigeſted Ideas of the Nature of it, attribute all public Miſcarriages to the corruption of Mankind. They think the whole Maſs is in<g ref="char:EOLhyphen"/>fected, that it's impoſſible to make any Reformation, and ſo ſub<g ref="char:EOLhyphen"/>mit patiently to their Countries Calamities, or elſe ſhare in the Spoil: whereas Complaints of this kind are as old as the World, and every Age has thought their own the worſt. We have not only our own Experience, but the Example of all Times, to prove that Men in the ſame Circumſtances will do the ſame things, call them by what names of diſtinction you pleaſe. A Govern<g ref="char:EOLhyphen"/>ment is a mere piece of Clockwork; and having ſuch Springs and Wheels, muſt act after ſuch a manner: and therfore the Art is to conſtitute it ſo that it muſt move to the public Advantage. It is certain that every Man will act for his own Intereſt; and all wiſe Goverments are founded upon that Principle: So that this whole Myſtery is only to make the Intereſt of the Governors and Governed the ſame. In an abſolute Monarchy, where the whole Power is in one Man, his Intereſt will be only regarded: In an Ariſtocracy the Intereſt of a few; and in a free Government the Intereſt of every one. This would be the Caſe of <hi>England</hi> if ſom Abuſes that have lately crept into our Conſtitution were re<g ref="char:EOLhyphen"/>mov'd. The freedom of this Kingdom depends upon the Peoples chuſing the Houſe of Commons, who are a part of the Legiſla<g ref="char:EOLhyphen"/>ture, and have the ſole power of giving Mony. Were this a true Repreſentative, and free from external Force or privat
+<pb n="iv" facs="tcp:107814:3"/>Bribery, nothing could paſs there but what they thought was for the public Advantage. For their own Intereſt is ſo interwoven with the Peoples, that if they act for themſelves (which every one of them will do as near as he can) they muſt act for the com<g ref="char:EOLhyphen"/>mon Intereſt of <hi>England.</hi> And if a few among them ſhould find it their Intereſt to abuſe their Power, it will be the Intereſt of all the reſt to puniſh them for it: and then our Government would act mechanically, and a Rogue will as naturally be hang'd as a Clock ſtrike twelve when the Hour is com. This is the Fountain-Head from whence the People expect all their Hap<g ref="char:EOLhyphen"/>pineſs, and the redreſs of their Grievances; and if we can pre<g ref="char:EOLhyphen"/>ſerve them free from Corruption, they will take care to keep every body elſe ſo. Our Conſtitution ſeems to have provided for it, by never ſuffering the King (till <hi>Charles</hi> the Second's Reign) to have a Mercenary Army to frighten them into a Compliance, nor Places or Revenues great enough to bribe them into it. The Places in the King's Gift were but few, and moſt of them Patent Places for Life, and the reſt great Offices of State enjoy'd by ſingle Perſons, which ſeldom fell to the ſhare of the Commons, ſuch as the Lord Chancellor, Lord Treaſurer, Privy-Seal, Lord High-Admiral, <hi>&amp;c.</hi> and when theſe Offices were poſſeſs'd by the Lords, the Commons were ſevere Inquiſitors into their Actions. Thus the Government of <hi>England</hi> continu'd from the time that the <hi>Romans</hi> quitted the Iſland, to the time of <hi>Charles</hi> the Firſt, who was the firſt I have read of that made an Oppoſition to him<g ref="char:EOLhyphen"/>ſelf in the Houſe of Commons the road to Preferment; of which the Earl of <hi>Strafford</hi> and <hi>Noy</hi> were the moſt remarkable Inſtan<g ref="char:EOLhyphen"/>ces, who from great Patriots became the chief Aſſertors of De<g ref="char:EOLhyphen"/>ſpotic Power. But this ſerv'd only to exaſperat the reſt; for he had not Places enough for all that expected them, nor Mony enough to bribe them. 'Tis true, he rais'd great Sums of Mony upon the People; but it being without Authority of Parliament, and having no Army to back him, it met with ſuch Difficulties
+<pb n="v" facs="tcp:107814:3"/>in the raiſing, that it did him little good, and ended at laſt in his ruin, tho by the means of a long and miſerable War, which brought us from one Tyranny to another; for the Army had got all things into their Power, and govern'd the Nation by a Coun<g ref="char:EOLhyphen"/>cil of War, which made all Parties join in calling in <hi>Charles</hi> the Second: So that he came in with the general applauſe of the People, who in a kind fit gave him a vaſt Revenue for Life. By this he was enabled to raiſe an Army, and bribe the Parlia<g ref="char:EOLhyphen"/>ment, which he did to the purpoſe: but being a luxurious Prince, he could not part with great Sums at once. He only fed them from hand to mouth: So that they found it as neceſſary to keep him in a conſtant Dependence upon them, as they had upon him. They knew he would give them ready Mony no longer than he had abſolute neceſſity for them, and he had not Places enough in his diſpoſal to ſecure a Majority in the Houſe: for in thoſe early days the art was not found out of ſplitting and multiplying Places; as inſtead of a Lord Tr—r to have Five Lords of the Tr—ry; inſtead of a Lord Ad—l to have Seven Lords of the Ad—ty; to have Seven Commiſſioners of the C—ms, Nine of the Ex—ze, Fourteen of the N—vy Office, Ten of the St—mp Office, Eight of the Pr—ze Office, Sixteen of the Com<g ref="char:EOLhyphen"/>miſſioners of Tr—de, Two of the P—ſt Office, Four of the Tranſports, Four for Hackny Coaches, Four for Wine-Licenſes, Four for the Victualling Office, and multitudes of other Offices which are endleſs to enumerat. I believe the Gentlemen who have the good Fortune to be in ſom of theſe Imployments, will think I complement them, if I ſhould ſay they have not bin bet<g ref="char:EOLhyphen"/>ter executed ſince they were in ſo many hands, than when in fewer: and I muſt confeſs, I ſee no reaſon why they may not be made twice as many, and ſo <hi>ad infinitum,</hi> unleſs the number be aſcertain'd by Parliament: and what danger this may be to our Conſtitution, I think of with Horror. For if in Ages to com they ſhould be all given to Parliament Men, what will be<g ref="char:EOLhyphen"/>com
+<pb n="vi" facs="tcp:107814:4"/>of our ſo much boaſted Liberty? what ſhall be don when the Criminal becoms the Judg, and the Malefactors are left to try themſelves? We may be ſure their common danger will unite them, and they will all ſtand by one another. I do not ſpeak this by gueſs; for I have read of a Country where there was a con<g ref="char:EOLhyphen"/>ſtant Series of miſmanagement for many Years together, and yet no body was puniſh'd: and even in our own Country I be<g ref="char:EOLhyphen"/>lieve, ſom Men now alive can remember the time, when if the King had but twenty more Places in his diſpoſal, or diſpoſed of thoſe he had to the beſt advantage, the Liberty of <hi>England</hi> had bin at an end. I would not be underſtood quite to exclude Parliament-men from having Places; for a Man may ſerve his Country in two Capacities: but I would not have it to be a Qualification for a Place; becauſe a poor Borough thinks a Man fit to repreſent them, that therfore he muſt be a Stateſman, a Lawyer, a Soldier, an Admiral, and what not? If this method ſhould be taken in a future Reign, the People muſt not expect to ſee Men of Ability or Integrity in any Places, while they hold them by no other tenure than the diſſervice they do their Coun<g ref="char:EOLhyphen"/>try in the Houſe of Commons, and are ſure to be turned out upon every prevalent Faction on the other ſide. They muſt then never expect to ſee the Houſe of Commons act vigorouſly for the Intereſt either of King or People; but ſom will ſervilely com<g ref="char:EOLhyphen"/>ply with the Court to keep their Places, others will oppoſe it as unreaſonably to get them: and thoſe Gentlemen whoſe deſigns are for their Countries Intereſt, will grow weary of the beſt form of Government in the World, thinking by miſtake the fault is in our Conſtitution. I have heard of a Country, where the Diſ<g ref="char:EOLhyphen"/>putes about Offices to the value of thirty thouſand Pounds <hi>per Annum,</hi> have made ſix Millions ineffectual; what by ſom Mens proſtitute compliance, and others openly clogging the Wheels, it has caus'd Want and Neceſſity in all kinds of Men, Bribery, Treachery, Profaneneſs, Atheiſm, Prodigality, Luxury, and
+<pb n="vii" facs="tcp:107814:4"/>all the Vices that attend a remiſs and corrupt Adminiſtration and a univerſal neglect of the Public. It is natural to run from one extreme to another; and this Policy will at laſt turn upon any Court that uſes it: for if they ſhould be reſolv'd to give all Offices to Parliament-Men, the People will think themſelves un<g ref="char:EOLhyphen"/>der a neceſſity to obtain a Law that they ſhall give none, which has bin more than once attemted in our own time. Indeed, tho there may be no great inconvenience in ſuffering a few Men that have Places to be in that Houſe, ſuch as com in naturally, without any indirect Means, yet it will be fatal to us to have many: for all wiſe Governments indeavor as much as poſſible to keep the Legiſlative and Executive Parts aſunder, that they may be a check upon one another. Our Government truſts the King with no part of the Legiſlative but a Negative Voice, which is abſolutely neceſſary to preſerve the Executive. One part of the Duty of the Houſe of Commons is to puniſh Offenders, and redreſs the Grievances occaſion'd by the Executive part of the Go<g ref="char:EOLhyphen"/>vernment; and how can that be don if they ſhould happen to be the ſame Perſons, unleſs they would be public ſpirited enough to hang or drown themſelves?</p>
+            <p>But in my opinion, in another thing of no leſs importance, we deviated in <hi>Charles</hi> the Second's time from our Conſti<g ref="char:EOLhyphen"/>tution: for tho we were in a Capacity of puniſhing Offenders, yet we did not know legally who they were. The Law has bin always very tender of the Perſon of the King, and therfore has diſpos'd the Executive part of the Government in ſuch proper Channels, that whatſoever leſſer Exceſſes are committed, they are not imputed to him, but his Miniſters are accountable for them: his Great Seal is kept by his Chancellor, his Revenue by his Treaſurer, his Laws are executed by his Judges, his Fleet is manag'd by his Lord High Admiral, who are all accountable for their Misbehavior. Formerly all matters of State and Diſcre<g ref="char:EOLhyphen"/>tion were debated and reſolv'd in the Privy Council, where every
+<pb n="viii" facs="tcp:107814:5"/>Man ſubſcrib'd his Opinion, and was anſwerable for it. The late King <hi>Charles</hi> was the firſt who broke this meſt excellent part of our Conſtitution, by ſettling a Cabal or Cabinet Council, where all matters of Conſequence were debated and reſolv'd, and then brought to the Privy Council to be confirmed. The firſt footſteps we have of this Council in any <hi>European</hi> Government were in <hi>Charles</hi> the Ninth's time of <hi>France,</hi> when reſolving to maſſacre the Proteſtants, he durſt not truſt his Council with it, but choſe a few Men whom he call'd his Cabinet Council: and conſidering what a Genealogy it had, 'tis no wonder it has bin ſo fatal both to King and People. To the King: for whereas our Conſtitution has provided Miniſters in the ſeveral parts of the Government to anſwer for Miſcarriages, and to skreen him from the hatred of the People; this on the contrary protects the Miniſters, and expoſes the King to all the Complaints of his Subjects. And 'tis as dangerous to the People: for whatever Miſcarriages there are, no Body can be puniſh'd for them; for they juſtify themſelves by a Sign Manual, or perhaps a privat Direction from the King: and then we have run it ſo far, that we can't follow it. The conſequence of this muſt be continual Heartburnings between King and People; and no one can ſee the Event.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:107814:5"/>
+            <head>A Short HISTORY OF Standing Armies IN ENGLAND.</head>
+            <p>IF any Man doubts whether a Standing Army is Slavery, Po<g ref="char:EOLhyphen"/>pery, Mahometiſm, Paganiſm, Atheiſm, or any thing which they pleaſe, let him read,</p>
+            <p>
+               <hi>Firſt,</hi> The Story of <hi>Matho</hi> and <hi>Spendius</hi> at <hi>Carthage,</hi> and the <hi>Mamalukes</hi> of <hi>Egypt.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Hiſtorys of <hi>Strada</hi> and <hi>Bentivolio,</hi> where he will find what work nine thouſand <hi>Spaniards</hi> made in the 17 <hi>Provinces,</hi> tho the Country was full of fortified Towns, poſſeſſed by the Low Country Lords, and they had aſſiſtance from <hi>Germany, Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>France.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The Hiſtory of <hi>Philip de Commines,</hi> where he will find that <hi>Lewis</hi> the <hi>11th</hi> inſlaved the vaſt Country of <hi>France</hi> with 25000
+<pb n="2" facs="tcp:107814:6"/>Men, and that the raiſing 500 Horſe by <hi>Philip</hi> of <hi>Burgundy</hi> ſirnamed the Good, was the ruin of thoſe Provinces.</p>
+            <p>
+               <hi>Fourthly, Ludlow</hi>'s <hi>Memoirs,</hi> where he will find that an Army raiſed to defend our Liberties, made footballs of that Parliament, at whoſe Actions all <hi>Europe</hi> ſtood amazed, and in a few Years ſet up ten ſeveral ſorts of Government contrary to the Genius of the whole Nation, and the opinion of half their own Body: ſuch is the influence of a General over an Army, that he can make them act like a piece of Mechaniſm, whatever their privat Opinions are.</p>
+            <p>
+               <hi>Laſtly,</hi> Let him read the <hi>Arguments againſt a Standing Army,</hi> the <hi>Diſcourſe concerning Militias,</hi> the <hi>Militia Reform'd,</hi> and the Anſwers to them: but leſt all this ſhould not ſatisfy him, I will here give a ſhort Hiſtory of Standing Armies in <hi>England,</hi> I will trace this myſtery of Iniquity from the beginning, and ſhow the ſeve<g ref="char:EOLhyphen"/>ral ſteps by which it has crept upon us.</p>
+            <p>The firſt footſteps I find of a Standing Army in <hi>England</hi> ſince the <hi>Romans</hi> left the Iſland, were in <hi>Richard</hi> the <hi>2d</hi>'s time, who raiſed four thouſand Archers in <hi>Cheſhire,</hi> and ſuffered them to plunder, live upon free Quarter, beat, wound, raviſh and kill wherever they went; and afterwards he called a Parliament, en<g ref="char:EOLhyphen"/>compaſſed them with his Archers, forced them to give up the whole power of Parliaments, and make it Treaſon to endeavour to repeal any of the Arbitrary Conſtitutions that were then made: but being afterwards obliged to go to <hi>Ireland</hi> to ſuppreſs a Rebellion there, the People took advantage of it, and dethron'd him.</p>
+            <p>The Nation had ſuch a Specimen in this Reign of a Standing Army, that I don't find any King from him to <hi>Charles</hi> the <hi>1ſt</hi> that attemted keeping up any Forces in time of Peace, except the Yeomen of the Guard, who were conſtituted by <hi>Henry</hi> the <hi>7th:</hi> and tho there were ſeveral Armies raiſed in that time for <hi>French, Scotch, Iriſh,</hi> other foren and domeſtic Wars; yet they were conſtantly disbanded as ſoon as the occaſion was over. And in all the Wars of <hi>York</hi> and <hi>Lancaſter,</hi> whatever party prevail'd, we don't find they ever attemted to keep up a Standing Army. Such was the virtue of thoſe times, that they would rather run the hazard of forfeiting their Heads and Eſtates to the rage
+<pb n="3" facs="tcp:107814:6"/>of the oppoſit Party, than certainly inſlave their Country, tho they themſelves were to be the Tyrants.</p>
+            <p>Nor would they ſuffer our Kings to keep up an Army in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> tho there were frequent Rebellions there, and by that means their Subjection very precarious; as well knowing they would be in <hi>England</hi> when called for. In the firſt three hundred Years that the <hi>Engliſh</hi> had poſſeſſion of that Country, there were no Armies there but in times of War. The firſt Force that was eſtabliſh'd was in the <hi>14th</hi> of <hi>Edward</hi> the forrth, when 120 Ar<g ref="char:EOLhyphen"/>chers on Horſeback, 40 Horſemen, and 40 Pages were eſtabliſh'd by Parliament there; which ſix Years after were reduc'd to 80 Archers, and 20 Spearmen on Horſeback. Afterwards in <hi>Henry</hi> the Eighth's time, in the Year 1535, the Army in <hi>Ireland</hi> was 300; and in 1543, they were increaſed to 380 Horſe and 160 Foot, which was the Eſtabliſhment then. I ſpeak this of times of Peace: for when the <hi>Iriſh</hi> were in Rebellion, which was very frequent, the Armies were much more conſiderable. In Queen <hi>Mary</hi>'s time the Standing Forces were about 1200. In moſt of Queen <hi>Elizabeth</hi>'s Reign the <hi>Iriſh</hi> were in open Rebellion; but when they were all ſuppreſs'd, the Army eſtabliſh'd was between 1500 and 2000: about which number they continued till the Army rais'd by <hi>Strafford</hi> the <hi>15th</hi> of <hi>Charles</hi> the <hi>1ſt.</hi>
+            </p>
+            <p>In the Year 1602 dy'd Queen <hi>Elizabeth,</hi> and with her all the Virtue of the <hi>Plantagenets,</hi> and the <hi>Tudors.</hi> She made the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Glory ſound thro the whole Earth: She firſt taught her Country the advantages of Trade; ſet bounds to the Ambition of <hi>France</hi> and <hi>Spain;</hi> aſſiſted the <hi>Dutch,</hi> but would neither per<g ref="char:EOLhyphen"/>mit them or <hi>France</hi> to build any great Ships; kept the Keys of the Rivers <hi>Maes</hi> and <hi>Scheld</hi> in her own hands; and died with an uncontrol'd Dominion of the Seas, and Arbitreſs of Chriſten<g ref="char:EOLhyphen"/>dom. All this ſhe did with a Revenue not exceeding 300000 pounds <hi>per Annum;</hi> and had but inconſiderable Taxes from her People.</p>
+            <p>No ſooner was King <hi>James</hi> come to the Crown, but all the Reputation we had acquir'd in her glorious Reign was eclips'd, and we became the ſcorn of all Nations about us, contemned even by that State we had created, who inſulted us at Sea, ſeiz'd <hi>Am<g ref="char:EOLhyphen"/>boyna, Poleroon, Seran,</hi> and other Places in the <hi>Eaſt-Indies,</hi> by which they ingroſs'd that moſt profitable Trade of Spices; fiſh'd up<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:107814:7"/>our Coaſts without paying the cuſtomary Tribute, and at the ſame time prevail'd with the King to deliver up the Cauti<g ref="char:EOLhyphen"/>onary Towns of <hi>Brill, Ramekins,</hi> and <hi>Fluſhing,</hi> for a very ſmall Conſideration, tho there were near ſix Millions Arrears. He ſquandred the public Treaſure, diſcountenanc'd all the great Men who were rais'd in the glorious Reign of his Predeceſſor, cut off Sir <hi>Walter Raleigh</hi>'s Head, advanc'd Favorites of his own, Men of no Merit, to the higheſt Preferment; and to maintain their Profuſeneſs, he granted them Monopolies, in<g ref="char:EOLhyphen"/>finit Projects, proſtituted Honors for Mony, rais'd Benevolen<g ref="char:EOLhyphen"/>ces and Loans without Authority of Parliament. And when theſe Grievances were complain'd of there, he committed many of the principal Members without Bail or Mainpriſe, as he did after<g ref="char:EOLhyphen"/>wards for preſuming to addreſs him againſt the <hi>Spaniſh</hi> Match. He pardon'd the Earl of <hi>Somerſet</hi> and his Wife for Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Overbury</hi>'s Murder, after he had imprecated all the Curſes of Heaven upon himſelf and his Poſterity; and it was generally thought, becauſe the Earl was Acceſſary to the poiſoning Prince <hi>Henry.</hi> He permitted his Son-in-law to be ejected out of his Principalities, and the Proteſtant Intereſt to be run down in <hi>Germany</hi> and <hi>France,</hi> while he was bubled nine Years together with the hopes of the <hi>Spaniſh</hi> Match, and a great Fortune. Afterwards he made a diſhonorable Treaty of Marriage with <hi>France,</hi> giving the Papiſts Liberty of Conſcience: and indeed, as he often declared, he was no otherwiſe an Enemy to Pope<g ref="char:EOLhyphen"/>ry, than for their depoſing of Kings, and King-killing Doctrin. In <hi>Ireland</hi> he gave them all the Incouragement he durſt; which Policy has bin follow'd by all his Succeſſors ſince to this preſent Reign, and has ſerv'd 'em to two purpoſes: One is, by this they have had a pretence to keep up Standing Armies there to aw the Natives; and the other, that they might make uſe of the Natives againſt their Engliſh Subjects. In this Reign that ridiculous Doctrin of Kings being <hi>Jure Divino</hi> was coin'd, never before heard of even in the Eaſtern Tyrannies. The o<g ref="char:EOLhyphen"/>ther parts of his Government had ſuch a mixture of <hi>Schara<g ref="char:EOLhyphen"/>muchi</hi> and <hi>Harlequin,</hi> that they ought not to be ſpoken of ſeri<g ref="char:EOLhyphen"/>ouſly, as Proclamations upon every Trifle, ſom againſt talking of News; Letters to the Parliament, telling them he was an old and wiſe King; that State Affairs were above their reach, and
+<pb n="5" facs="tcp:107814:7"/>therfore they muſt not meddle with them, and ſuch like Trum<g ref="char:EOLhyphen"/>pery. But our happineſs was, that this Prince was a great Coward, and hated the ſight of a Soldier; ſo that he could not do much againſt us by open force. At laſt he died (as ma<g ref="char:EOLhyphen"/>ny have believed) by Poiſon, to make room for his Son <hi>Charles</hi> the Firſt.</p>
+            <p>This King was a great Bigot, which made him the Darling of the Clergy; but having no great reach of his own, and being govern'd by the Prieſts (who have bin always unfortunat when they have meddled with Politics) with a true Eccleſiaſtic Fury he drove on to the deſtruction of all the Liberties of <hi>England.</hi> This King's whole Reign was one continued Act againſt the Laws. He diſſolv'd his firſt Parliament for preſuming to inquire into his Father's Death, tho he loſt a great Sum of Mony by it, which they had voted him: He entred at the ſame time into a War with <hi>France</hi> and <hi>Spain,</hi> upon the privat Piques of <hi>Buckingham,</hi> who managed them to the eternal Diſhonor and Reproach of the Engliſh Nation; witneſs the ridiculous Enterprizes upon <hi>Cadiz</hi> and the Iſle of <hi>Rhee.</hi> He deliver'd <hi>Pennington</hi>'s Fleet into the <hi>French</hi> hands, betray'd the poor <hi>Rochellers,</hi> and ſuffered the Proteſtant Intereſt in <hi>France</hi> to be quite extirpated. He rais'd Loans, Ex<g ref="char:EOLhyphen"/>ciſes, Coat and Conduct-mony, Tunnage and Poundage, Knight<g ref="char:EOLhyphen"/>hood and Ship-mony, without Authority of Parliament; im<g ref="char:EOLhyphen"/>pos'd new Oaths on the Subjects, to diſcover the value of their Eſtates; impriſoned great numbers of the moſt conſiderable Gentry and Merchants for not paying his Arbitrary Taxes; ſom he ſent beyond Sea, and the poorer ſort he preſt for Soldiers. He kept Soldiers upon free Quarter, and executed Martial Law upon them. He granted Monopolies without number, and broke the bounds of the Foreſts. He erected Arbitrary Courts, and inlarg'd others, as the High Commiſſion-Court, the Star-Cham<g ref="char:EOLhyphen"/>ber, Court of Honor, Court of Requeſts, <hi>&amp;c.</hi> and unſpeakable Oppreſſions were committed in them, even to Men of the firſt Quality. He commanded the Earl of <hi>Briſtol</hi> and Biſhop of <hi>Lin<g ref="char:EOLhyphen"/>coln</hi> not to com to Parliament; committed and proſecuted a great many of the moſt eminent Members of the Houſe of Com<g ref="char:EOLhyphen"/>mons for what they did there, ſom for no cauſe at all, and would not let them have the benefit of <hi>Habeas Corpus;</hi> ſuſpended and confin'd Arch-Biſhop <hi>Abbot,</hi> becauſe he would not licenſe a
+<pb n="6" facs="tcp:107814:8"/>Sermon that aſſerted Deſpotic Power, whatever other cauſe was pretended. He ſuſpended the Biſhop of <hi>Gloceſter,</hi> for refuſing to ſwear never to conſent to alter the Government of the Church; ſupported all his Arbitrary Miniſters againſt the Parliament, tel<g ref="char:EOLhyphen"/>ling them he wondred at the fooliſh Impudence of any one to think he would part with the meaneſt of his Servants upon their account: and indeed in his Speeches, or rather Menaces, he treated them like his Footmen, calling them Undutiful, Seditious, and Vipers. He brought unheard of Innovations into the Church; preferred Men of Arbitrary Principles, and inclinable to Popery, eſpecially thoſe Firebrands, <hi>Laud, Mountague,</hi> and <hi>Manwaring,</hi> one of whom had bin complain'd of in Parliament, another im<g ref="char:EOLhyphen"/>peach'd for advancing Popery, and the third condemn'd in the Houſe of Lords. He diſpenſed with the Laws againſt Papiſts, and both encourag'd and prefer'd them. He called no Parliament for twelve years together, and in that time govern'd as arbitra<g ref="char:EOLhyphen"/>rily as the Grand Seignior. He abetted the <hi>Iriſh</hi> Maſſacre, as appears by their producing a Commiſſion under the Great Seal of <hi>Scotland,</hi> by the Letter of <hi>Charles</hi> the <hi>2d</hi> in favor of the Mar<g ref="char:EOLhyphen"/>queſs of <hi>Antrim,</hi> by his ſtopping the Succors that the Parliament ſent to reduce <hi>Ireland</hi> ſix months under the Walls of <hi>Cheſter,</hi> by his entring into a Treaty with the Rebels after he had ingaged his Faith to the Parliament to the contrary, and bringing over many thouſands of them to ſight againſt his People. It is end<g ref="char:EOLhyphen"/>leſs to enumerat all the Oppreſſions of his Reign; but having no Army to ſupport him, his Tyranny was precarious, and at laſt his ruin. Tho he extorted great Sums from the People, yet it was with ſo much difficulty, that it did him little good. Beſides, he ſpent ſo much in Fooliſh Wars and Expeditions, that he was always behind-hand; yet he often attemted to raiſe an Army.</p>
+            <p>Upon pretence of the <hi>Spaniſh</hi> and <hi>French</hi> War he rais'd many thouſand Men, who liv'd upon free Quarter, and rob'd and de<g ref="char:EOLhyphen"/>ſtroy'd wherever they came. But being unſucceſsful in his Wars abroad, and preſt by the Clamors of the People at home, he was forc'd to disband them. In 1627 he ſent over 30000 <hi>l.</hi> to <hi>Hol<g ref="char:EOLhyphen"/>land</hi> to raiſe 3000 <hi>German</hi> Horſe, to force his arbitrary Taxes; but this matter taking wind, and being examin'd by the Parlia<g ref="char:EOLhyphen"/>ment, Orders were ſent to countermand them. In the <hi>15th</hi> year
+<pb n="7" facs="tcp:107814:8"/>of his Reign he gave a Commiſſion to <hi>Strafford</hi> to raiſe 8000 <hi>Iriſh</hi> to be brought into <hi>England:</hi> but before they could get hither, the <hi>Scots</hi> were in Arms for the like Oppreſſions, and marched in<g ref="char:EOLhyphen"/>to <hi>Northumberland,</hi> which forcing him to call a Parliament, pre<g ref="char:EOLhyphen"/>vented that deſign, and ſo that Army was disbanded. Soon after he rais'd an Army in <hi>England</hi> to oppoſe the <hi>Scots,</hi> and tamper'd with them to march to <hi>London,</hi> and diſſolve the Parliament: but this Army being compoſed for the moſt part of the Militia, and the matter being communicated to the Houſe, who immediatly fell on the Officers that were Members, as <hi>Aſhburnham, Wilmot, Pollard,</hi> &amp;c. the deſign came to nothing. After this there was a Pacification between the King and the <hi>Scots;</hi> and in purſuance of it both Ar<g ref="char:EOLhyphen"/>mies were disbanded. Then he went to <hi>Scotland,</hi> and indea<g ref="char:EOLhyphen"/>vor'd to prevail with them to invade <hi>England;</hi> but that not do<g ref="char:EOLhyphen"/>ing, he ſent a Meſſage to the Parliament, deſiring their concur<g ref="char:EOLhyphen"/>rence in the raiſing 3000 <hi>Iriſh</hi> to be lent to the King of <hi>Spain;</hi> to which the Parliament refuſed to conſent, believing he would make another uſe of them. When he came back to <hi>London,</hi> he pick'd out 3 or 400 diſſolute Fellows out of Taverns, gaming and brothel-Houſes, kept a Table for them; and with this goodly Guard all arm'd, he entred the Houſe of Commons, ſat down in the Speaker's Chair, demanding the delivery of 5 Members: But the Citizens coming down by Land and Water with Muſquets upon their Shoulders to defend the Parliament, he attemted no further. This ſo inrag'd the Houſe, that they choſe a Guard to defend themſelves againſt future Inſults, and the King ſoon after left <hi>London.</hi> Som time before this began the <hi>Iriſh</hi> Rebellion, where the <hi>Iriſh</hi> pretended the King's Authority, and ſhew'd the Great Seal to juſtify themſelves; which, whether true or falſe, raiſed ſuch a jealouſy in the People, that he was forced to conſent to leave the management of that War to the Parliament: yet he afterwards ſent a Meſſage to them, telling them he would go to <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in Perſon; and acquainted them, that he had iſſued out Com<g ref="char:EOLhyphen"/>miſſions for raiſing 2000 Foot and 200 Horſe in <hi>Cheſhire</hi> for his Guard, which they proteſted againſt, and prevented it. By this we may ſee what Force was thought ſufficient in his Reign to in<g ref="char:EOLhyphen"/>ſlave the Nation, and the frequent Attemts to get it.</p>
+            <p>Then the Civil Wars broke out between him and his People, in which many bloody Battels were fought; two of the moſt conſi<g ref="char:EOLhyphen"/>derable
+<pb n="8" facs="tcp:107814:9"/>were thoſe of <hi>Newbury</hi> and <hi>Naſeby,</hi> both won by new Sol<g ref="char:EOLhyphen"/>diers, the firſt by the <hi>London</hi> Militia, and the latter by an unex<g ref="char:EOLhyphen"/>perienc'd Army, which the King uſed to call in deriſion the <hi>New Nodel.</hi> And ſom years after, the Battel of <hi>Worceſter</hi> was in a great meaſure won by the Country Militia, for which <hi>Cromwel</hi> diſcharged them with anger and contemt, as knowing them In<g ref="char:EOLhyphen"/>ſtruments unſit to promote his Tyrannical Deſigns. At laſt by the fate of the War the King became a Priſoner, and the Parlia<g ref="char:EOLhyphen"/>ment treated with him while in that condition, and at the ſame time voted that ſom part of the Army ſhould be disbanded, and others ſent to <hi>Ireland</hi> to reduce that Kingdom; upon which the Army choſe Agitators among themſelves, who preſented a Petiti<g ref="char:EOLhyphen"/>on to both Houſes, that they would proceed to ſettle the Affairs of the Kingdom, and declare that no part of the Army ſhould be diſ<g ref="char:EOLhyphen"/>banded till that was don. But finding their Petition reſented, they ſent and ſeiz'd the King's Perſon from the Parliaments Com<g ref="char:EOLhyphen"/>miſſioners, drew up a Charge of High Treaſon againſt eleven principal Members for indeavoring to disband the Army, entred into a privat Treaty with the King: but he not complying with their demands, they ſeized <hi>London;</hi> and notwithſtanding the Parliament had voted the King's Conceſſions a ground for a future Settlement, they reſolved to put him to Death, and in order therto purged the Houſe, as they called it, that is, placed Guards upon them, and excluded all Members that were for agreeing with the King; and then they cut off his Head.</p>
+            <p>After this they let the Parliament govern for five years, who made their Name famous thro the whole Earth, conquered their Enemies in <hi>England, Scotland</hi> and <hi>Ireland;</hi> reduced the Kingdom of <hi>Portugal</hi> to their own Terms; recovered our Reputation at Sea; overcame the <hi>Dutch</hi> in ſeveral famous Battels; ſecured our Trade, and managed the public Expences with ſo much frugality, that no Eſtates were gained by privat Men upon the public Mi<g ref="char:EOLhyphen"/>ſeries; and at laſt were paſſing an Act for their own Diſſolution, and ſettling the Nation in a free and impartial Common<g ref="char:EOLhyphen"/>wealth; of which the Army being afraid, thought it neceſſary to diſſolve them, and accordingly <hi>Cromwel</hi> next day called two Files of Muſqueteers into the Houſe, and pulled the Speaker out of the Chair, behaving himſelf like a Madman, vilifying the Members, and calling one a Whoremaſter, another a Drunkard,
+<pb n="9" facs="tcp:107814:9"/>bidding the Soldiers take away that fools bauble the Mace; and ſo good night to the Parliament.</p>
+            <p>When they had don this Act of violence, the Council of Of<g ref="char:EOLhyphen"/>ficers ſet up a new form of Government, and choſe a certain number of Perſons out of every County and City of <hi>England, Scotland</hi> and <hi>Ireland:</hi> and theſe they inveſted with the Supreme Power, but ſoon after expelled them, and then <hi>Cromwel</hi> ſet up himſelf, and framed a new Inſtrument of Government by a Protector and a Houſe of Commons, in purſuance of which he called a Parliament. But they not anſwering his Expectations, he excluded all that would not ſubſcribe his Inſtrument; and thoſe that remained, not proving for his purpoſe neither, he diſſolved them with a great deal of opprobrious Language. He then divided <hi>England</hi> into ſeveral Diſtricts or Diviſions, and placed Major Generals or Intendents over them, who go<g ref="char:EOLhyphen"/>verned like ſo many Baſhaws, decimating the Cavaliers, and raiſing Taxes at their pleaſure. Then forſooth he had a mind to make himſelf King, and called another Parliament to that purpoſe, after his uſual manner ſecluding ſuch Members as he did not like. To this Aſſembly he offered another Inſtrument of Government, which was by a Repreſentative of the People, a <hi>2d</hi> Houſe compoſed of 70 Members in the nature of a Houſe of Lords, and a ſingle Perſon; and left a Blank for what name he ſhould be called, which this worthy Aſſembly filled up with that of King, addreſſed to <hi>Cromwel</hi> that he would be pleaſed to accept it, and gave him power to nominat the Members of the Other Houſe. This the great Officers of the Army reſented, for it deſtroyed all their hopes of being Tyrants in their turn, and therefore addreſſed the Parliament againſt the Power and Go<g ref="char:EOLhyphen"/>vernment of a King, which made <hi>Cromwel</hi> decline that Title, and content himſelf with a greater Power under the name of Protector. Afterwards he nam'd the <hi>Other Houſe,</hi> as it was called, for the moſt part out of the Officers of the Army; but even this Parliament not pleaſing him, he diſſolved them in a fury, and govern'd the Nation without any Parliament at all till he died.</p>
+            <p>After his death the Army ſet up his Son <hi>Richard,</hi> who called a new Parliament; but their procedings being not agreable to
+<pb n="10" facs="tcp:107814:10"/>the humor of the Soldiery, they forced the Protector to diſſolve them: then they depoſed him, and took the power into their own hands; but being unable to weild it, they reſtored the Commonwealth, and ſoon after expelled them again, becauſe they would not ſettle the Military Sword independent of the Civil; then they governed the Nation by a Council of War at <hi>Willingford</hi>-Houſe, and thoſe a Committee of Safety for the executive part of the Government; but that Whim laſted but a little time before they choſe Conſervators of Liberty; and that not doing neither, they agreed that every Regiment ſhould chooſe two Repreſentatives, and this worthy Council ſhould ſettle the Nation; when they met, ſomtimes they were for calling a new Parliament, ſomtimes for reſtoring the old, which was at laſt don. By this means all things fell into Confuſion, which gave <hi>Monk</hi> an opportunity of marching into <hi>England,</hi> where he acted his part ſo dexterouſly, that he re<g ref="char:EOLhyphen"/>ſtor'd the King with part of that Army which had cut off his Father's Head.</p>
+            <p>This is a true and lively Example of a Government with an Army; an Army that was raiſed in the cauſe, and for the ſake of Liberty; compoſed for the moſt part of Men of Religion and Sobriety. If this Army could commit ſuch violences upon a Parliament always ſucceſsful, that had acquired ſo much Re<g ref="char:EOLhyphen"/>putation both at home and abroad, at a time when the whole People were trained in Arms, and the Pulſe of the Nation beat high for Liberty; what are we to expect if in a future Age an ambitious Prince ſhould ariſe with a diſſolute and debauched Army, a flattering Clergy, a proſtitute Miniſtry, a Bankrupt Houſe of L—ds, a Penſioner Houſe of C—ns, and a ſlaviſh and corrupted Nation?</p>
+            <p>By this means came in <hi>Charles</hi> the Second, a luxurious effe<g ref="char:EOLhyphen"/>minat Prince, a deep Diſſembler, and if not a Papiſt himſelf, yet a great favorer of them: but the People had ſuffered ſo much from the Army, that he was received with the utmoſt Joy and Tranſport. The Parliament in the Honymoon paſſed what Laws he pleaſed, gave a vaſt Revenue for life, being three times as much as any of his Predeceſſors ever enjoyed, and ſeveral Millions beſides to be ſpent in his Pleaſures. This
+<pb n="11" facs="tcp:107814:10"/>made him conceive vaſter hopes of Arbitrary Power than any that went before him; and in order to it he debauched and ener<g ref="char:EOLhyphen"/>vated the whole Kingdom: His Court was a ſcene of Adulte<g ref="char:EOLhyphen"/>ries, Drunkenneſs, and Irreligion, appearing more like Stews, or the Feaſts of <hi>Bacchus,</hi> than the Family of a Chief Magiſtrate: and in a little time the Contagion ſpread thro the whole Na<g ref="char:EOLhyphen"/>tion, that it was out of the faſhion not to be leud, and ſcanda<g ref="char:EOLhyphen"/>lous not to be a public Enemy: which has bin the occaſion of all the Miſeries that have ſince happened, and I am afraid will not be extinguiſhed but by our ruin. He was no ſooner warm in his Seat, but he rejected an advantageous Treaty of Commerce which <hi>Oliver</hi> made with <hi>France,</hi> as don by a Uſurper; ſuffer'd the <hi>French</hi> to lay Impoſitions upon all our Goods, which amount<g ref="char:EOLhyphen"/>ed to a Prohibition, inſomuch that they got a Million a year from us in the overbalance of Trade. He ſold that important Fortreſs of <hi>Dunkirk,</hi> let the <hi>French</hi> ſeize St. <hi>Chriſtophers</hi> and other places in North <hi>America.</hi>
+            </p>
+            <p>He began a fooliſh and unjuſt War with the <hi>Dutch;</hi> and tho the Parliament gave him vaſt Sums to maintain it, yet he ſpent ſo much upon his Vices, that they got great advantages of us, and burnt our Fleet at <hi>Chatham.</hi> At laſt he made as diſhonorable a Peace with them, as he had don a War; a perpetual reproach to our Country, that our Reputation at Sea ſhould be ſunk to ſo low an eb as to be baffled by that Nation, who but a few years before had ſent a blank Paper to the Parliament, to preſcribe to them what Laws they pleaſed. During this War the City of <hi>London</hi> was fired, not without violent ſuſpicions that the Firebals were prepared at <hi>Whitehall.</hi> Soon after this he entred into the Triple Alliance to oppoſe the growing greatneſs of <hi>France,</hi> and received a great Sum from the Parliament to maintain it, which he made uſe of to break the ſame League; ſent Mr. <hi>Coventry</hi> to <hi>Sweden</hi> to diſſolve it; and entred into a ſtrict Alliance with <hi>France,</hi> which was ſealed with his Siſter's blood. In conjunction with them he made a new War upon <hi>Holland,</hi> to extirpat Liberty and the Proteſtant Religion; but knowing the Parliament were averſe to the War, and would not ſupport him in it, he at<g ref="char:EOLhyphen"/>temted before any War declared to ſeize their <hi>Smirna</hi> Fleet, ſhut up the Exchequer, and became ſo mean as to be a Penſio<g ref="char:EOLhyphen"/>ner
+<pb n="12" facs="tcp:107814:11"/>to <hi>France,</hi> from whence his Predeceſſors with Swords in their hands had ſo often exacted Tribute. He not only ſuffered, but aſſiſted them to arrive at that pitch of Greatneſs, which all <hi>Europe</hi> ſince hath ſufficiently felt and lamented. He ſent over ten thouſand Men to aſſiſt in ſubduing <hi>Flanders</hi> and <hi>Germany,</hi> by whoſe help they did ſeveral conſiderable Actions. He ſent them Timber, Seamen, Ship-Carpenters, and Models, contra<g ref="char:EOLhyphen"/>ry to the Policy of all Nations; which rais'd their Naval Force to a degree almoſt equal to our own: and for their exerciſe, he ſuffered them to take multitudes of <hi>Engliſh</hi> Ships by their Privateers, without ſo much as demanding ſatisfaction.</p>
+            <p>During this War he iſſued out a Declaration ſuſpending the Penal Laws, which appears to be deſigned in favor of the Papiſts, by his directing a Bill afterwards to be ſtolen away out of the Houſe of Lords, for indulging Proteſtant Diſſenters, whom he perſecuted violently moſt of his Reign, while he both countenanced and preferred Papiſts, broke the Act of Settlement in <hi>Ireland,</hi> reſtored them to their Eſtates, iſſued forth a Proclama<g ref="char:EOLhyphen"/>tion giving the Papiſts liberty to inhabit in Corporations, and married the Duke of <hi>York</hi> not only to a Papiſt, but one in the <hi>French</hi> Intereſt, notwithſtanding the repeated Addreſſes of the Parliament to the contrary. It was in this Reign that that curſed and deteſtable Policy was much improved of bribing Parlia<g ref="char:EOLhyphen"/>ments, by diſtributing all the great Imployments in <hi>England</hi> among them, and ſupplying the want of places with Grants of Lands and Mony. No Man could be preferred to any Imploy<g ref="char:EOLhyphen"/>ment in Church or State, till he had declared himſelf an open Enemy to our Conſtitution, by aſſerting Deſpotic Power under that nonſenſical Phraſe of <hi>Paſſive Obedience,</hi> which was more preach'd up than all the Laws of God and Man. The Helliſh Popiſh Plot was ſtifled, proved ſince too true by fatal experience; and in the room of it Proteſtant ones were forged, and Men tra<g ref="char:EOLhyphen"/>pan'd into others, as the Meal-Tub, <hi>Fitz Harris</hi>'s, the <hi>Rye-Houſe, Newmarket,</hi> and <hi>Black-Heath</hi> Plots: and by theſe Preten<g ref="char:EOLhyphen"/>ces, and the help of packt Judges and Juries, they butchered ſom of the beſt Men in <hi>England,</hi> ſet immoderat Fines upon others, gave probable ſuſpicion of cutting the Lord <hi>Eſſex</hi>'s Throat: and to finiſh our deſtruction, they took away the Char<g ref="char:EOLhyphen"/>ters,
+<pb n="13" facs="tcp:107814:11"/>as faſt as they were able, of all the Corporations in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that would not chooſe the Members preſcribed them.</p>
+            <p>But he durſt not have dreamt of all theſe Violations if he had not had an Army to juſtify them. He had thoughts at firſt of keeping up the Parliament-Army, which was ſeveral times in debate. But Chancellor <hi>Hyde</hi> prevailed upon him by this Ar<g ref="char:EOLhyphen"/>gument, that they were a body of Men that had cut off his Fa<g ref="char:EOLhyphen"/>ther's Head; that they had ſet up and pulled down ten ſeveral ſorts of Government; and that it might be his own turn next. So that his fears prevailing over his ambition, he conſented to disband them; but ſoon found how vain and abortive a thing Arbitrary Power would prove without an Army. He therfore try'd all ways to get one; and firſt he attemted it in <hi>Scotland,</hi> and by means of the Duke of <hi>Lauderdale,</hi> got an Act paſſed there, wherby the Kingdom of <hi>Scotland</hi> was obliged to raiſe 20000 Foot and 2000 Horſe at his Majeſty's Call, to march into any part of his Dominions; and this Law is in being at this day. Much about the ſame time he rais'd Guards in <hi>England</hi> (a thing unheard of before in our <hi>Engliſh</hi> Conſtitution) and by degrees increas'd them, till they became a formidable Army; for firſt they were but very few, but by adding inſenſibly more Men to a Troop or Company, and then more Troops or Companies to a Regiment, before the ſecond <hi>Dutch</hi> War he had multiplied them to near 5000 Men. He then began that War in conjuncti<g ref="char:EOLhyphen"/>on with <hi>France,</hi> and the Parliament gave him two Millions and a half to maintain it, with part of which Mony he rais'd about 12000 Men, which were called the <hi>Black-Heath Army</hi> (ap<g ref="char:EOLhyphen"/>pointing Marſhal <hi>Shomberg</hi> to be their General, and <hi>Fitz Ge<g ref="char:EOLhyphen"/>rald</hi> an <hi>Iriſh</hi> Papiſt their Lieutenant-General) and pretended he rais'd them to attack <hi>Holland;</hi> but inſtead of uſing them to that purpoſe, he kept them encamped upon <hi>Black-Heath,</hi> hover<g ref="char:EOLhyphen"/>ing over the City of <hi>London,</hi> which put both the Parliament and City in ſuch confuſion, that the King was forced at laſt to diſ<g ref="char:EOLhyphen"/>band them. But there were ſeveral accidents contributed to it: Firſt the ill ſucceſs he had in the War with the <hi>Dutch,</hi> ſuch Gallantries being not to be attemted but in the higheſt Raptures of Fortune: Next, the never to be forgotten Generoſity of that great Man General <hi>Shomberg,</hi> whoſe mighty Genius ſcorn'd ſo
+<pb n="14" facs="tcp:107814:12"/>ignoble an Action as to put Chains upon a free People; and laſt of all, the Army themſelves mutini'd for want of Pay: which added to the ill Humors that were then in the Nation, made the King willing to disband them. But at the ſame time, con<g ref="char:EOLhyphen"/>trary to the Articles of Peace with the <hi>Dutch,</hi> he continu'd ten thouſand Men in the <hi>French</hi> Service, for the moſt part under Popiſh Officers, to be ſeaſon'd there in ſlaviſh Principles, that they might be ready to execute any Commands when they were ſent for over. The Parliament never met, but they addreſs'd the King to recal theſe Forces out of <hi>France,</hi> and disband them; and ſeveral times prepar'd Bills to that purpoſe, which the King always prevented by a Prorogation; but at laſt was pre<g ref="char:EOLhyphen"/>vail'd upon to iſſue forth a Proclamation to recal them, yet at the ſame time ſupply'd them with Recruits, incourag'd ſom to go voluntarily into that Service, and preſs'd, impriſon'd, and carri'd over others by main Force: beſides, he only diſ<g ref="char:EOLhyphen"/>banded the new rais'd Regiments, and not all them neither, for he kept up in <hi>England</hi> five thouſand eight hundred and nine<g ref="char:EOLhyphen"/>ty privat Men, beſides Officers, which was his Eſtabliſhment in 1673.</p>
+            <p>The King having two great deſigns to carry on together, <hi>viz.</hi> Popery and Arbitrary Power, thought this Force not enough to do his Buſineſs effectually; and therfore caſt about how to get a new Army, and took the moſt plauſible way, which was pre<g ref="char:EOLhyphen"/>tending to enter into a War with <hi>France;</hi> and to that purpoſe ſent Mr. <hi>Thyn</hi> to <hi>Holland,</hi> who made a ſtrict League with the States: and immediatly upon it the King call'd the Parliament, who gave him 1200000 Pounds to enter into an actual War, with which Mony he rais'd an Army of between twenty and thirty thouſand Men within leſs than forty Days, and ſent part of them to <hi>Flanders.</hi> At the ſame time he continued his forces in <hi>France,</hi> and took a Sum of Mony from that King to aſſiſt him in making a privat Peace with <hi>Holland:</hi> So that inſtead of a War with <hi>France,</hi> the Parliament had given a great Sum to raiſe an Army to enſlave themſelves. But it happen'd about this time that the Popiſh Plot broke out, which put the Nation into ſuch a Ferment, that there was no ſtemming the Tide; ſo that he was forc'd to call the Parliament, which met the <hi>23d</hi> of <hi>October</hi>
+               <pb n="15" facs="tcp:107814:12"/>78, who immediatly fell upon the Popiſh Piot and the Land Army. Beſides, there were diſcover'd 57 Commiſſions grant<g ref="char:EOLhyphen"/>ed to Papiſts to raiſe Men, counterſigned <hi>J. Will—ſon;</hi> for which, and ſaying that the King might keep Guards if he could pay them, he was committed to the <hi>Tower.</hi> This ſo inrag'd the Parliament, that they immediatly proceded to the disbanding of the Army, and paſs'd an Act that all rais'd ſince the <hi>29th</hi> of <hi>September</hi> 77 ſhould be disbanded, and gave the King 693388 pounds to pay off their Arrears, which he made uſe of to keep them up, and diſſolv'd the Parliament; but ſoon after called another, which purſu'd the ſame Counſels, and paſs'd a ſecond Act to disband the Army, gave a new Sum for doing it, di<g ref="char:EOLhyphen"/>rected it to be paid into the Chamber of <hi>London,</hi> appointed Com<g ref="char:EOLhyphen"/>miſſioners of their own, and paſs'd a Vote, <hi>That the continuance of any Standing Forces in this Nation other than the Militia, was illegal, and a great Grievance and Vexation to the People;</hi> ſo that Army was disbanded. Beſides this, they complain'd of the Forces that were in <hi>France,</hi> and addreſs'd the King again to re<g ref="char:EOLhyphen"/>cal them, which had ſom Effect; for he ſent over no more Re<g ref="char:EOLhyphen"/>cruits, but ſuffer'd them to wear out by degrees. The Eſta<g ref="char:EOLhyphen"/>bliſhment upon the Diſſolution of this Army, which was in the Year 1679/80, were 5650 privat Soldiers, beſides Officers. From this time he never agreed with his People, but diſſolved three Parliaments following for inquiring into the Popiſh Plot; and in the four laſt Years of his Reign call'd none at all. And to crown the Work, <hi>Tangier</hi> is demoliſh'd, and the Gariſon brought over, and plac'd in the moſt conſiderable Ports in <hi>England;</hi> which made the Eſtabliſhment in 8¾ 8482 privat Men, beſides Officers. It's obſervable in this King's Reign, that there was not one Seſſions but his Guards were attack'd, and never could get the leaſt Countenance from Parliament; but to be even with them, the Court as much diſcountenanc'd the Militia, and never would ſuffer it to be made uſeful. Thus we ſee the King huſ<g ref="char:EOLhyphen"/>banded a few Guards ſo well, that in a ſmall number of Years they grew to a formidable Army, notwithſtanding all the en<g ref="char:EOLhyphen"/>deavors of the Parliament to the contrary; ſo difficult it is to prevent the growing of an Evil, that dos not receive a check in the beginning.</p>
+            <pb n="16" facs="tcp:107814:13"/>
+            <p>He increas'd the Eſtabliſhment in <hi>Ireland</hi> to 7700 Men, Of<g ref="char:EOLhyphen"/>ficers included; wheras they never exceded in any former Reign 2000, when there was more occaſion for them: the <hi>Iriſh</hi> not long before having bin intirely reduced by <hi>Cromwel,</hi> and could never have held up their Heads again without his Countenance. But the truth of it was, his Army was to ſupport the <hi>Iriſh,</hi> and the fear of the <hi>Iriſh</hi> was to ſupport his Army.</p>
+            <p>Towards the latter end of this King's Reign the Nation had ſo intirely loſt all ſenſe of Liberty, that they grew fond of their Chains; and if his Brother would have ſuffer'd him to have liv'd longer, or had followed his Example, by this time we had bin as great Slaves as in <hi>France.</hi> But it was God's great Mercy to us that he was made in another Mould, Imperious, Obſtinat, and a Bigot, puſh'd on by the Counſels of <hi>France</hi> and <hi>Rome,</hi> and the violence of his own Nature; ſo that he quickly run himſelf out of breath. As ſoon as he came to the Crown, he ſeiz'd the Cuſtoms and Exciſe without Authority of Parliament: He pick'd out the Scum and Scandals of the Law to make Judges upon the Bench; and turn'd out all that would not ſacrifice their Oaths to his Ambition, by which he diſcharg'd the Lords out of the <hi>Tower,</hi> inflicted thoſe barbarous Puniſh<g ref="char:EOLhyphen"/>ments on Dr. <hi>Oates,</hi> Mr. <hi>Johnſon,</hi> &amp;c. butcher'd many hundreds of Men in the <hi>Weſt</hi> after they had bin trapan'd into a Con<g ref="char:EOLhyphen"/>feſſion by promiſe of Pardon, murder'd <hi>Corniſh,</hi> got the Diſ<g ref="char:EOLhyphen"/>penſing Power to be declar'd in <hi>Weſtminſter-Hall,</hi> turn'd the Fellows of <hi>Magdalen</hi>-College out of their Freeholds to make way for a Seminary of Prieſts, and hang'd Soldiers for running away from their Colors. He erected the Eccleſiaſti<g ref="char:EOLhyphen"/>cal Commiſſion, ſuſpended the Biſhop of <hi>London,</hi> becauſe he would not inflict the ſame Puniſhment upon Dr. <hi>Sharp</hi> for preaching againſt Popery. He cloſeted the Nobility and Gen<g ref="char:EOLhyphen"/>try, turn'd all out of Imployment that would not promiſe to repeal the Teſt, put in Popiſh Privy-Counſellors, Judges, De<g ref="char:EOLhyphen"/>puty Lieutenants, and Juſtices of Peace; and to get all this confirm'd by the ſhew of Parliament, he proſecuted the Work his Brother had begun in taking away Charters, and new mo<g ref="char:EOLhyphen"/>del'd the Corporations by a ſort of Vermin call'd Regulators. He receiv'd a Nuntio from <hi>Rome,</hi> and ſent an Ambaſſador
+<pb n="17" facs="tcp:107814:13"/>thither. He erected a Popiſh Seminary at the <hi>Savoy</hi> to per<g ref="char:EOLhyphen"/>vert Youth, ſuffer'd the Prieſts to go about in their Habits, made <hi>Tyrconnel</hi> Lord Lieutenant of <hi>Ireland,</hi> turn'd all the Pro<g ref="char:EOLhyphen"/>teſtants out of the Army and moſt of the Civil Imployments there, and made <hi>Fitton</hi> (a Papiſt, and one detected for Per<g ref="char:EOLhyphen"/>jury) Chancellor of that Kingdom. He iſſu'd out a Proclama<g ref="char:EOLhyphen"/>tion in <hi>Scotland,</hi> wherin he aſſerted his Abſolute Power, which all his Subjects were to obey without reſerve; a Prerogative I think, never claim'd by the Great <hi>Turk,</hi> or the <hi>Mogul.</hi> He iſ<g ref="char:EOLhyphen"/>ſu'd out a Declaration for Liberty of Conſcience, order'd it to be read in all Churches, and impriſon'd and try'd the ſeven Biſhops becauſe they humbly offer'd their Reaſons in a Petiti<g ref="char:EOLhyphen"/>on againſt it: and to conſummat all, that we might have no hopes of retrieving our Misfortunes, he impos'd a counterfeit Prince of <hi>Wales</hi> upon the Nation.</p>
+            <p>Soon after he came to the Crown, the Duke of <hi>Monmouth</hi> landed, and in a few weeks got together ſix or ſeven thouſand Men: but they having neither Arms or Proviſions, were eaſily defeated by not many more than 2000 of the King's Troops. Which leaves a ſad proſpect of the conſequence of a Standing Army: for here was a Prince, the Darling of the common People, fighting againſt a bigotted Papiſt that was hated and abbor'd by them, and yet defeated by ſo ſmall a number of Men, and many of them too his Friends; ſuch is the force of Authority. King <hi>James</hi> took occaſion from hence to increaſe his Army to between fifteen and ſixteen thouſand Men, and then unmask'd himſelf, call'd his Parliament, and in a haugh<g ref="char:EOLhyphen"/>ty Speech told them, He had increas'd his Army, put in Of<g ref="char:EOLhyphen"/>ficers not qualifi'd by the Teſt, and that he would not part with them. He ask'd a Supply, and let them know he ex<g ref="char:EOLhyphen"/>pected their compliance. This was very unexpected to thoſe Loyal Gentlemen, who had given him ſuch a vaſt Revenue for Life, who refus'd to take any Security but his Majeſty's never<g ref="char:EOLhyphen"/>failing Word for the Proteſtant Religion, and indeed had don for him whatever he ask'd; which yet was not very extra<g ref="char:EOLhyphen"/>ordinary, ſince he had the chooſing of moſt of them himſelf. But even this Parliament turn'd ſhort upon an Army: which puts me in mind of a ſaying of <hi>Macchiavel,</hi> viz. <hi>That it is as
+<pb n="18" facs="tcp:107814:14"/>hard a matter for a Man to be perfectly bad as perfectly good;</hi> tho if he had liv'd at this time, I believe he had chang'd his Opinion. The Court labor'd the matter very much; and to ſhew that good Wits jump, they told us that <hi>France</hi> was grown formidable, that the <hi>Dutch</hi> Forces were much increas'd, that we muſt be ſtrong in proportion for the preſervation of our ſelves and <hi>Flanders,</hi> and that there was no dependence upon the Militia. But this ſhallow Rhetoric would not paſs upon them. They anſwer'd, that we had defended our ſelves for above a thouſand Years without an Army; that a King's trueſt Strength is the Love of his People; that they would make the Militia uſeful, and order'd a Bill to be brought in to that pur<g ref="char:EOLhyphen"/>poſe. But all this ſerv'd only to fulfil their Iniquity; for they had don their own Buſineſs before, and now he would keep an Army up in ſpite of them: ſo he prorogu'd them, and call'd no other Parliament during his Reign; but to frighten the City of <hi>London,</hi> kept his Army encamp'd at <hi>Hounſlow</hi>-Heath when the Seaſon would permit, which put not only them but the whole Nation into the utmoſt Terror and Confuſion. To<g ref="char:EOLhyphen"/>wards the latter end of his Reign he had increas'd his Army in <hi>England</hi> to above twenty thouſand Men, and in <hi>Ireland</hi> to eight thouſand ſeven hundred and odd.</p>
+            <p>This King committed two fatal Errors in his Politics. The firſt was his falling out with his old Chronies the Prieſts, who brought him to the Crown in ſpite of his Religion, and would have ſupported him in Arbitrary Government to the ut<g ref="char:EOLhyphen"/>moſt; nay, Popery (eſpecially the worſt part of it, <hi>viz.</hi> the Domination of the Church) was not ſo formidable a thing to them, but with a little Cookery it might have bin rendred pa<g ref="char:EOLhyphen"/>latable. But he had Prieſts of another ſort that were to riſe upon their Ruins; and he thought to play an eaſier Game by careſſing the Diſſenters, imploying them, and giving them Li<g ref="char:EOLhyphen"/>berty of Conſcience: which kindneſs lookt ſo prepoſterous, that the wiſe and ſober Men among them could never hear<g ref="char:EOLhyphen"/>tily believe it, and when the Prince of <hi>Orange</hi> landed, turn'd againſt him.</p>
+            <p>His ſecond Error was the diſobliging his own Army, by bring<g ref="char:EOLhyphen"/>ing over Regiments from <hi>Ireland,</hi> and ordering every Com<g ref="char:EOLhyphen"/>pany
+<pb n="19" facs="tcp:107814:14"/>to take in ſo many <hi>Iriſh</hi> Papiſts; by which they plainly ſaw he was reforming his Army, and would caſhire them all as faſt as he could get Papiſts to ſupply their room. So that he violated the Rights of the People, fell out with the Church of <hi>England,</hi> made uncertain Friends of the Diſſenters, and diſ<g ref="char:EOLhyphen"/>oblig'd his own Army; by which means they all united a<g ref="char:EOLhyphen"/>gainſt him, and invited the Prince of <hi>Orange</hi> to aſſiſt them: which Invitation he accepted, and landed at <hi>Torbay</hi> the <hi>5th</hi> of <hi>November</hi> 1688. publiſhing a Declaration, which ſet forth all the Oppreſſions of the laſt Reign [but the keeping up a Stand<g ref="char:EOLhyphen"/>ing Army] declared for a free Parliament, in which things were to be ſo ſettled that there ſhould be no danger of fall<g ref="char:EOLhyphen"/>ing again into Slavery, and promis'd to ſend back all his foren Forces as ſoon as this was don.</p>
+            <p>When the News of his Landing was ſpread thro <hi>England,</hi> he was welcom'd by the univerſal Acclamations of the People. He had the Hands, the Hearts, and the Prayers of all honeſt Men in the Nation: Every one thought the long wiſh'd for time of their Deliverance was com. King <hi>James</hi> was deſerted by his own Family, his Court, and his Army. The Ground he ſtood up<g ref="char:EOLhyphen"/>on mouldred under him; ſo that he ſent his Queen and Found<g ref="char:EOLhyphen"/>ling to <hi>France</hi> before him, and himſelf followed ſoon after. When the Prince came to <hi>London,</hi> he disbanded moſt of thoſe Regiments that were rais'd from the time he landed; and King <hi>James</hi>'s Army that were disbanded by <hi>Feverſham,</hi> were order'd to repair all again to their Colors: which was thought by ſom a falſe ſtep, believing it would have bin more our In<g ref="char:EOLhyphen"/>tereſt to have kept thoſe Regiments which came in upon the Principle on which this Revolution is founded, than Forces that were rais'd in violation of the Laws, and to ſupport a Tyrannical Government: beſides, the miſerable Condition of <hi>Ireland</hi> requir'd our ſpeedy Aſſiſtance, and theſe Men might have bin truſted to do that work.</p>
+            <p>Within a few days after he came to Town, he ſummon'd the Lords, and not long after the Members of the three laſt Parliaments of King <hi>Charles</hi> the <hi>2d,</hi> and was addreſs'd to by both Houſes to take upon him the Adminiſtration of the Go<g ref="char:EOLhyphen"/>vernment, to take into his particular care the then preſent
+<pb n="20" facs="tcp:107814:15"/>Condition of <hi>Ireland,</hi> and to iſſue forth Circulatory Letters for the chooſing a Convention of Eſtates. All this time <hi>Ireland</hi> lay bleeding, and <hi>Tyrconnel</hi> was raiſing an Army, diſarming the Proteſtants, and diſpoſſeſſing them of all the Places they held in <hi>Leinſter, Munſter,</hi> and <hi>Connaught:</hi> which occaſion'd frequent Applications here for Relief, tho it was to ſend them but one or two Regiments; and if that could not be don, to ſend them Arms and Commiſſions, which in all probability would have made the Reduction of that Kingdom very eaſy: yet tho the Prince's and King <hi>James</hi> his Army were both in <hi>England,</hi> no relief was ſent, by which means the <hi>Iriſh</hi> got poſſeſſion of the whole Kingdom but <hi>Londonderry</hi> and <hi>Inniskilling,</hi> the for<g ref="char:EOLhyphen"/>mer of which Towns ſhut up its Gates the ninth of <hi>December,</hi> declaring for the Prince of <hi>Orange,</hi> and addreſs'd for immediat Relief, yet could neither get Arms or Ammunition till the <hi>20th</hi> of <hi>March;</hi> and the Forces that were ſent with <hi>Cunningham</hi> and <hi>Richards</hi> arrived not there till the <hi>15th</hi> of <hi>April,</hi> and immedi<g ref="char:EOLhyphen"/>atly after deſerted the Service, and came back again, bringing <hi>Lundy</hi> the Governor before appointed by his Majeſty with them, and alledg'd for their Excuſe, that it was impoſſible to defend the Town. But notwithſtanding this Treachery, ſuch was the reſolution of the Beſieged, that they continu'd to defend them<g ref="char:EOLhyphen"/>ſelves with the utmoſt bravery, and ſent again for Relief, which under <hi>Kirk</hi> came not to them till the <hi>7th</hi> of <hi>June;</hi> nor were theſe poor Creatures actually reliev'd till the <hi>30th</hi> of <hi>Ju<g ref="char:EOLhyphen"/>ly,</hi> tho there appears no reaſon why he might not have don it when he firſt came into the Harbor, which was more than ſeven Weeks before. Thus we ſee the Reſolution of theſe poor Men weari'd out all their Diſappointments.</p>
+            <p>When the Convention met, they reſolv'd upon twenty eight Articles, as the Preliminaries upon which they would diſpoſe the Crown; but this deſign dwindled into a Declaration of our Rights, which was in thirteen Articles, and the moſt conſide<g ref="char:EOLhyphen"/>rable, <hi>viz. That the raiſing and keeping up a Standing Army in times of Peace is contrary to Law,</hi> had tag'd to it theſe words, <hi>without Authority of Parliament;</hi> as if the conſent of the Parlia<g ref="char:EOLhyphen"/>ment would not have made it Legal without thoſe words, or that their Conſent would make it leſs dangerous. This made
+<pb n="21" facs="tcp:107814:15"/>the <hi>Jacobites</hi> ſay in thoſe early days, that ſom evil Counſellors deſign'd to play the ſame game again of a <hi>Standing Army,</hi> and attributed unjuſtly the neglect of <hi>Ireland</hi> to the ſame Cauſe, becauſe by that omiſſion it was made neceſſary to raiſe a greater Army to reduce it, with which the King acquainted the Parliament the <hi>8th</hi> of <hi>March,</hi> when ſpeaking of the de<g ref="char:EOLhyphen"/>plorable Condition of <hi>Ireland,</hi> he declar'd he thought it not adviſable to attemt the reducing it with leſs than 20000 Horſe and Foot. This was a bitter Pill to the Parliament, who thought they might have manag'd their ſhare of the War with <hi>France</hi> at Sea; but there was no remedy, a greater Ar<g ref="char:EOLhyphen"/>my muſt be rais'd, or <hi>Ireland</hi> loſt; and to gild it, all the Courtiers uſher'd in their Speeches with this Declaration, That they would be the firſt for disbanding them when the War was over; and this Declaration has bin made as often as an Army has bin debated ſince during the War, and I ſuppoſe punctually obſerv'd laſt Seſſions. At laſt the thing was con<g ref="char:EOLhyphen"/>ſented to, and the King iſſu'd forth Commiſſions for the raiſing of Horſe, Foot, and Dragoons. In this Army very few Gen<g ref="char:EOLhyphen"/>tlemen of Eſtates in <hi>Ireland</hi> could get Imployments, tho they were in a miſerable Condition here, and made their utmoſt Application for them; it being a common objection by ſom Colo<g ref="char:EOLhyphen"/>nels, that a Man had an Eſtate there, which in all likelihood would have made him more vigorous in reducing the Kingdom. It was long after this Army was rais'd, before they could be ready to be tranſported; and even then it was commonly ſaid that <hi>Shomberg</hi> found many things out of order; and when they were at laſt tranſported, which was about the middle of <hi>Auguſt,</hi> they were not in a Condition to fight the Enemy, tho lately baffled before <hi>Londonderry,</hi> eſpecially their Carriages coming not to them till the <hi>24th</hi> of <hi>September,</hi> when it was high time to go into Winter-Quarters. By this means the <hi>Iriſh</hi> got Strength and Courage, and three fourths of our Army periſh'd at the Camp at <hi>Dundalk.</hi>
+            </p>
+            <p>But tho our Army could do nothing, yet the Militia of the Country, almoſt without Arms or Clothes, performed Mira<g ref="char:EOLhyphen"/>cles, witneſs that memorable Siege of <hi>Londonderry,</hi> the defeat of General <hi>Mackarty,</hi> who was intrench'd in a Bog with ten
+<pb n="22" facs="tcp:107814:16"/>thouſand regular Troops, and attack'd by fifteen hundred <hi>In<g ref="char:EOLhyphen"/>niskilling</hi> men, defeated, himſelf made a Priſoner, and three thouſand of his Men kill'd; and a great many other gallant Actions they perform'd, for which they were diſmiſs'd by <hi>Kirk</hi> with Scorn and Ignominy, and moſt of their Officers left to ſtarve. Thus the War in <hi>Ireland</hi> was nurs'd up either thro Chance, Inadvertency, or the neceſſity of our Affairs (for I am unwilling to think it was Deſign) till at laſt it was grown ſo big, that nothing leſs than his Majeſty's great Genius, and the uſual Succeſs that has always attended his Conduct, could have overcom it.</p>
+            <p>When the Parliament met that Winter, they fell upon the examination of the <hi>Iriſh</hi> Affairs; and finding Commiſſary <hi>Shales</hi> was the cauſe of a great part of the Miſcarriages, they ad<g ref="char:EOLhyphen"/>dreſs'd his Majeſty that he would be pleas'd to acquaint the Houſe who it was that advis'd the imploying him, which his Majeſty did not remember. They then addreſs'd, that he would be pleas'd to order him to be taken into Cuſtody, and it was don accordingly; upon which <hi>Shales</hi> ſent a Letter to the Speaker, deſiring he might be brought over to <hi>England,</hi> where he would vindicat himſelf, and juſtify what he had don. Then the Houſe addreſs'd his Majeſty again, that he might be brought over with all convenient ſpeed; and the King was pleas'd to anſwer, that he had given ſuch Orders al<g ref="char:EOLhyphen"/>ready. Then the Houſe refer'd the matter to a privat Com<g ref="char:EOLhyphen"/>mittee; but before any Report made, or <hi>Shales</hi> could be brought to <hi>England,</hi> the Parliament was prorogu'd, and after diſſolv'd; and ſoon after he fell ſick and died.</p>
+            <p>The neglect of <hi>Ireland</hi> this Year made it neceſſary to raiſe more Forces, and increaſe our Eſtabliſhment, which afterwards upon pretence of invading <hi>France</hi> was advanc'd to eighty ſeven thouſand ſix hundred ninety eight Men. At laſt by our great Armies and Fleets, and the conſtant expence of maintaining them, we were too hard for the Oeconomy, Skill, and Policy of <hi>France;</hi> and notwithſtanding all our Difficulties, brought them to Terms both Safe and Honorable.</p>
+            <p>It not being to be purpoſe of this Diſcourſe, I ſhall omit giving any account of the Conduct of our Fleet during this
+<pb n="23" facs="tcp:107814:16"/>War, how few Advantages we reap'd by it, and how many Opportunities we loſt of deſtroying the <hi>French.</hi> Only thus much I will obſerve, that tho a great part of it may be at<g ref="char:EOLhyphen"/>tributed to the Negligence, Ignorance, or Treachery of infe<g ref="char:EOLhyphen"/>rior Officers, yet it could not ſo univerſally happen thro the whole courſe of the War, and unpuniſh'd too, notwithſtand<g ref="char:EOLhyphen"/>ing the clamors of the Merchants, and repeated complaints in Parliament, unleſs the cauſe had laid deeper: What that is, I ſhall not preſume to enquire; but I am ſure there has bin a very ill Argument drawn from it, viz. <hi>That a Fleet is no ſe<g ref="char:EOLhyphen"/>curity to us.</hi>
+            </p>
+            <p>As ſoon as the Peace was made, his Majeſty diſcharg'd a great part of the foren Forces; and an Advertiſment was publiſh'd in the Gazet, that ten Regiments ſhould be forth<g ref="char:EOLhyphen"/>with disbanded; and we were told, as ſoon as it was don, that more ſhould follow their example. But theſe Reſolutions, it ſeems, were alter'd, and the modiſh Language was, that we muſt keep up a Standing Army. Their Arguments were turn'd topſy turvy: for as during the War the People were pre<g ref="char:EOLhyphen"/>vail'd upon to keep up the Army in hopes of a Peace; ſo now we muſt keep them up for fear of a War. The Condi<g ref="char:EOLhyphen"/>tion of <hi>France,</hi> which they had bin decrying for many Years, was now magnifi'd: we were told, that it was doubtful whe<g ref="char:EOLhyphen"/>ther the <hi>French</hi> King would deliver up any of his Towns; that he was preparing a vaſt Fleet upon the Lord knows what Deſign; that it was impoſſible to make a Militia uſeful; that the warlike King <hi>Jemmy</hi> had an Army of eighteen thouſand <hi>Iriſh</hi> Hero's in <hi>France,</hi> who would be ready when call'd for; and that the King of <hi>Spain</hi> was dying. The Members of Parliament were diſcours'd with as they came to Town; 'twas whiſper'd about, that the Whigs would be all turn'd out of Imployments: a new Plot was ſaid to be diſcover'd for murder<g ref="char:EOLhyphen"/>ing the King, and ſearches were made at Midnight thro the whole City to the diſcovery of plenty of Fornication, but no Traitors. The Placemongers conſulted among themſelves, and found by a wonderful Sympathy they were all of one Opinion; and if by any means they could get a few more to be of the ſame, the day was their own: ſo they were poſitive of ſuc<g ref="char:EOLhyphen"/>ceſs,
+<pb n="24" facs="tcp:107814:17"/>and very ſure they ſhould carry it by above a hundred Voices.</p>
+            <p>The Houſe had not ſat a week, but this matter came to be de<g ref="char:EOLhyphen"/>bated; and the queſtion in the Committee was, <hi>Whether all For<g ref="char:EOLhyphen"/>ces rais'd ſince the year</hi> 80 <hi>ſhould be disbanded?</hi> which was carried in the Affirmative, the Court being not able to bring it to a diviſion; and the next day when it was reported, they did not attemt to ſet aſide the Vote, but to recommit it, upon pre<g ref="char:EOLhyphen"/>tence it tied the King to the old Tory Regiments, (tho by the way, none of thoſe Regiments have bin ſince disbanded) and ſom ſaid they thought the Forces in 80 too many. I can ſafely ſay, tho I had frequent diſcourſe with many of them, yet I never heard any one of them at that time pretend to be for a greater force than this Vote left the King: but let what will be their reaſons, it was carried againſt them by a majority of 37, the Affirmatives being 185, and the Nega<g ref="char:EOLhyphen"/>tives 148. I will not here take notice of what ſom People have ſaid, <hi>viz. That of the</hi> 148 <hi>who were for recommitting the Vote,</hi> 116 <hi>had Places,</hi> becauſe I doubt the fact; nor do I believe their Places would biaſs them.</p>
+            <p>This was a thorow Victory, and required great skill and ad<g ref="char:EOLhyphen"/>dreſs to retrieve. The fears of <hi>France</hi> were again multiplied; 'twas ſaid there was a privat Article that King <hi>James</hi> was to Ieave <hi>France,</hi> which the <hi>French</hi> refuſed to perform; that <hi>Boufflers</hi> and the Earl of <hi>Portland</hi> had given one another the Lie; that ſom of the latter's Retinue had bin kill'd; that the <hi>French</hi> Ambaſſador was ſtop'd, the King of <hi>Spain</hi> dead, and abundance more to this purpoſe. The Club was ſet up at the R—, great Applications made, the Commiſſion of the Exciſe was declared to be broke (by which nine Commiſſioners Places were to be diſ<g ref="char:EOLhyphen"/>poſed of, and above 40 Perſons named for them) and many of the Country Gentlemen were gon home. Thus recruited, they were ready for a new Encounter: and ſince by the Rules of the Houſe they could not ſet aſide the former Vote directly, they would try to do it by a ſide wind; which was by moving, that directions might be given to the Committee of Ways and Means to conſider to a ſupply for Guards and Gariſons: but the other ſide, to obviat this, offered theſe words as an Amend<g ref="char:EOLhyphen"/>ment,
+<pb n="25" facs="tcp:107814:17"/>
+               <hi>viz. According to the Vote of the</hi> 11th <hi>of December.</hi> This matter was much labored, and the Gentlemen that were againſt the Army explain'd themſelves, and declar'd they were not for obliging the King to the Regiments in 80, but that they inſiſt<g ref="char:EOLhyphen"/>ed only on the number, and he might chooſe what Regiments he pleaſed. By this means they carried it, but not without great oppoſition (tho I preſume from none of thoſe Gentlemen who<g ref="char:EOLhyphen"/>declared in all Places they were for recommitting the former Vote only for the reaſons before given) beſides, they were forced to explain themſelves out of a conſiderable part of it, for they allowed the King the <hi>Dutch</hi> Regiments, and the <hi>Tange<g ref="char:EOLhyphen"/>riners;</hi> which in my opinion could not be well underſtood by the former Vote, the meaning of which ſeems to be, that the King ſhould have all the Forces that <hi>Charles</hi> the <hi>2d</hi> had in 80 in <hi>England,</hi> and theſe were not then here; the <hi>Holland</hi> Regiments being paid by the States, and their Soldiers; and the others 500 Leagues off at <hi>Tangier.</hi> But all this advantage would not ſatisfy the Army-Gentlemen: for in the Committee they in<g ref="char:EOLhyphen"/>deavored again to ſet aſide the Vote, by moving for a ſum of 500000 pounds <hi>per annum</hi> for Guards and Gariſons, with<g ref="char:EOLhyphen"/>out naming any certain number (which would have maintain'd above 20000) but this could not be carried; therfore they came to a fort of Compoſition, to have but 10000, wherof a great number were to be Horſe and Dragoons; and the Sum given to maintain them was 350000 pounds: but notwith<g ref="char:EOLhyphen"/>ſtanding this they moved afterwards for 3000 Marines (alledg<g ref="char:EOLhyphen"/>ing that theſe were not a Land-Force, but a Water-Force) which was carried.</p>
+            <p>Here I will beg leave to obſerve one thing, that nothing would ſatisfy the Courtiers at the beginning of the Winter but to have the Forces eſtabliſh'd by the Parliament, and upon other Terms they would not accept them; and in all Com<g ref="char:EOLhyphen"/>panys ſaid, that any Miniſter that advis'd the King to keep them up otherwiſe, or any Officer that continued his Commiſſion ought to be attainted of High Treaſon: about which I ſhall nor dif<g ref="char:EOLhyphen"/>fer with theſe Gentlemen, nor do I arraign them for altering their opinion; for perhaps they may conceive that a Vore to give 350000 pounds for Guards and Gariſons, is a ſufficient
+<pb n="26" facs="tcp:107814:18"/>Authority againſt Law to quarter Soldiers in all parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as well out of Gariſons, as in 'em, and as well at a diſtance from the King's Perſon, as about it.</p>
+            <p>This what our Courts for above a thouſand years together had never Effrontery enough to ask; what the Penſioner Parlia<g ref="char:EOLhyphen"/>ment could not think of without aſtoniſhment; what King <hi>James</hi>'s Parliament (that was almoſt choſen by himſelf) could not hear debated with patience, we are likely to have the honor of eſtabliſhing in our own age, even under a Deliverance.</p>
+            <p>Now we will examin how far they have complied with the Reſolutions of the Houſe of Commons. Having ſo far gained upon the firſt Vote by the means before related, 'twas not eaſy to be imagined but they would nicely perform the reſt, without any art or evaſion: but inſtead of this, they reform'd a cer<g ref="char:EOLhyphen"/>tain number of Men out of every Troop and Company, and kept up all the Officers, who are the moſt eſſential and chargeable part of an Army, the privat Soldiers being to be rais'd again in a few days whenever they pleaſe. This is ſuch a disbanding as every Officer would have made in his Company for his privat advantage, and always did in <hi>Charles</hi> the <hi>2d</hi>'s time, and even in this Reign when they were not in action: ſo that all the effect of ſuch a Reform is to hinder the Officers from falſe Muſters, and ſave the pay of a few common Soldiers.</p>
+            <p>But this would not ſatisfy the People, and therfore they diſ<g ref="char:EOLhyphen"/>banded ſom Regiments of Horſe, Foot and Dragoons, and thought of that profound Expedient of ſending a great many more to <hi>Ireland;</hi> as if our grievance was not the fear of be<g ref="char:EOLhyphen"/>ing enſlav'd by them, but leſt they ſhould ſpend their Mony among us. I am ſorry the Nation is grown ſo contemtible in theſe Gentlemens opinions, as to think that they can remove our fears of a Standing Army by ſending them threeſcore miles off, from whence they may recal them upon a few days notice. Nay an Army kept in <hi>Ireland,</hi> is more dangerous to us than at home: for here by perpetual converſe with their Relations and Acquaintance, ſom few of them perhaps may warp towards their Country; wheras in <hi>Ireland</hi> they are kept as it were in a Gari<g ref="char:EOLhyphen"/>ſon, where they are ſhut up from the communication of their Countrymen, and may be nurs'd up in another Intereſt. This is ſo
+<pb n="27" facs="tcp:107814:18"/>true, that 'tis a common Policy among Arbitrary Princes often to ſhift their Soldiers Quarters, leſt they ſhould contract friendſhip among the Natives, and by degrees fall into their In<g ref="char:EOLhyphen"/>tereſt.</p>
+            <p>It may be ſaid perhaps, That the People of <hi>Ireland</hi> will pay them; which makes the matter ſo much the worſe, for they are leſs likely to have any regard to their Country. Beſides, if we conſider the Lords Juſtices Speech to that Parliament, wherin they are let know that his Majeſty <hi>EXPECTS</hi> that they will continue the Subſiſtence to the disbanded Officers, and ſupport the preſent Eſtabliſhment (which by the way is near three times as great as <hi>Charles</hi> the <hi>2d</hi>'s) and this without any other ceremony or qualification of Time (with which his Majeſty was pleas'd to expreſs himſelf to his <hi>Engliſh</hi> and <hi>Scotch</hi> Parlia<g ref="char:EOLhyphen"/>ments) we may be convinc'd that they are not in a condition to diſpute this matter; eſpecially at a time when they appre<g ref="char:EOLhyphen"/>hend Hardſhips will be put upon them in relation to their Trade: and therfore we may be ſure they will gratify the Court to the utmoſt of their Power, in hopes, if they can't prevent the paſ<g ref="char:EOLhyphen"/>ſing a Law againſt them, to obtain a connivance in the execu<g ref="char:EOLhyphen"/>tion. We may add; by this means they will keep their Mony in their own Country, a great part wherof came formerly to <hi>England,</hi> and have an opportunity of returning the Comple<g ref="char:EOLhyphen"/>ment we deſign'd them laſt Year, if we don't prevent it by disbanding the Army there, as <hi>Strafford</hi>'s Army in <hi>Ireland</hi> was formerly in the <hi>15th</hi> of <hi>Charles</hi> the firſt, and lately another in 78 by our <hi>Engliſh</hi> Parliaments.</p>
+            <p>I can't avoid taking notice here, how different the modiſh Sentiments are in <hi>Ireland</hi> and <hi>England:</hi> for there the Language is, We muſt comply with the Court in keeping up the Army, or otherwiſe the Woollen Manufacture is gon; and here the Men in faſhion tell us, that an Army muſt be kept in <hi>Ireland</hi> to deſtroy the Woollen Manufacture, and execute the Laws we make againſt them; and in order to it the People of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> are to pay them.</p>
+            <p>This project of ſending Men to <hi>Ireland</hi> was ſo tranſparent, that they durſt not rely upon it; and therfore they told us, that as faſt as Mony could be got, they would disband more
+<pb n="28" facs="tcp:107814:19"/>Regiments. The People were in great expectation when it would be don, and ſeveral times it was taken notice of in Parliament; and the Courtiers always aſſur'd them that no<g ref="char:EOLhyphen"/>thing hindred it but the want of Mony to pay them off 'Twas conſidently ſaid in all public places, that eighteen Re<g ref="char:EOLhyphen"/>giments more would be disbanded, and the Regiments were nam'd; and I have heard it with great Aſſurance affirm'd by the Agents and Officers themſelves, that the King had ſign'd it in Council. Thus the Seſſion was worn out, till the Houſe of Commons tir'd with Expectation, addreſs'd his Majeſty, <hi>That be would be pleas'd to give order that a Liſt be laid before the Houſe of the Army disbanded, and intended to be disbanded, and of the Officers Names who are to have half pay;</hi> and his Majeſty was pleas'd to anſwer, <hi>That he would comply with the deſires of the Houſe as ſoon as conveniently be couid:</hi> but the Parliament ſitting not above a Month afterwards, his Majeſty ſent them no farther anſwer.</p>
+            <p>At laſt the Parliament roſe, and inſtead of disbanding they brought over a great many foreign Regiments, and ſent them to <hi>Ireland,</hi> as well as three more <hi>Engliſh</hi> ones. But even all this would not bring their Army in <hi>England</hi> down to ten thouſand Men; ſo that they made another Reform, and ſince have in<g ref="char:EOLhyphen"/>corporated the Officers of the disbanded Regiments in <hi>Ireland</hi> into the Standing Troops, by which means they have not an Army of Officers: wheras if theſe Gentlemen deſign their Ar<g ref="char:EOLhyphen"/>my to defend us againſt a ſudden Invaſion, or to be in readi<g ref="char:EOLhyphen"/>neſs againſt the King of <hi>Spain</hi>'s Death, in my poor opinion they ſhould have kept up the privat Soldiers, and disbanded all the Officers but ſuch as are juſt neceſſary to exerciſe them; for Of<g ref="char:EOLhyphen"/>ficers will be always ready to accept good Imployments, where<g ref="char:EOLhyphen"/>as the privat Soldiers will be very difficultly liſted again in a new War, tho we all know they are eaſily to be got toge<g ref="char:EOLhyphen"/>ther when they are only to inſult their Countrymen.</p>
+            <p>One good effect of this Army has already appear'd; for I preſume every body has heard how prevailing an Argument it was in the late Elections, <hi>That if we chooſe ſuch a Man, we ſhall be free from Quarters:</hi> and I wiſh this Argument dos not every day grow ſtronger. Nay, who knows but in another
+<pb n="29" facs="tcp:107814:19"/>Reign the Corporations may be told that his Majeſty <hi>expects</hi> they will chooſe the Officers of the Army, and the Parliament be told that he <hi>expects</hi> they will maintain them?</p>
+            <p>But to ſet this matter in a full view, I will here put down the Eſtabliſhment of King <hi>Charles</hi> the <hi>Second</hi> in 88, which was the foundation of the Vote of the <hi>11th</hi> of <hi>December,</hi> as alſo his preſent Majeſty's: and in this, as well as my other Computati<g ref="char:EOLhyphen"/>ons, I do not pretend but I may be miſtaken in many Particulars, tho I have taken what care I could not to be ſo; nor is it mate<g ref="char:EOLhyphen"/>rial to my purpoſe, ſo the variation from Truth is not con<g ref="char:EOLhyphen"/>ſiderable.</p>
+            <p>I ſhall alſo ſet down King <hi>William</hi>'s Eſtabliſhment as the Regi<g ref="char:EOLhyphen"/>ments were before the Reform, becauſe all the Officers ſtill re<g ref="char:EOLhyphen"/>main, and a great part of the privat Soldiers, which I take to be in effect full Regiments; the reſt being to be rais'd again in a few days, if they are deſign'd for home Service, but, as I ſaid before, the hardeſt to be got if they are deſigned for <hi>Spain</hi> or <hi>Flanders.</hi> But herein if any Man differs from me, he may make his own de<g ref="char:EOLhyphen"/>ductions.</p>
+            <div type="tables_of_military_forces">
+               <pb n="30" facs="tcp:107814:20"/>
+               <head>The Eſtabliſhment of <hi>Charles</hi> the <hi>2d</hi> in <hi>England</hi> in the Year Eighty.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">
+                           <hi>Horſe and Dragoons in</hi> England.</cell>
+                        <cell>
+                           <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Com<g ref="char:EOLhyphen"/>miſ. Offi<g ref="char:EOLhyphen"/>cers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Private Men.</hi>
+                        </cell>
+                        <cell role="total">
+                           <hi>Total Number.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Troops of Guards</cell>
+                        <cell>3</cell>
+                        <cell>48</cell>
+                        <cell>15</cell>
+                        <cell>600</cell>
+                        <cell role="total">663</cell>
+                     </row>
+                     <row>
+                        <cell>The Royal Regiment of Horſe</cell>
+                        <cell>8</cell>
+                        <cell>34</cell>
+                        <cell>40</cell>
+                        <cell>400</cell>
+                        <cell role="total">474</cell>
+                     </row>
+                     <row>
+                        <cell>A Troop of Dragoons raiſed in <hi>July,</hi> 1680.</cell>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                        <cell>8</cell>
+                        <cell>40</cell>
+                        <cell role="total">52</cell>
+                     </row>
+                     <row role="total">
+                        <cell>Total Horſe and Dragoons</cell>
+                        <cell>12</cell>
+                        <cell>86</cell>
+                        <cell>63</cell>
+                        <cell>1040</cell>
+                        <cell role="total">1189</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Foot in</hi> England.</cell>
+                        <cell cols="5"> </cell>
+                     </row>
+                     <row>
+                        <cell>Gentlemen Penſioners</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                        <cell>0</cell>
+                        <cell>40</cell>
+                        <cell role="total">46</cell>
+                     </row>
+                     <row>
+                        <cell>Yeomen of the Guard</cell>
+                        <cell>1</cell>
+                        <cell>7</cell>
+                        <cell>0</cell>
+                        <cell>100</cell>
+                        <cell role="total">107</cell>
+                     </row>
+                     <row>
+                        <cell>The firſt Regiment of Foot-Guards</cell>
+                        <cell>24</cell>
+                        <cell>75</cell>
+                        <cell>192</cell>
+                        <cell>1440</cell>
+                        <cell role="total">1707</cell>
+                     </row>
+                     <row>
+                        <cell>The <hi>Coldſtream</hi> Regiment</cell>
+                        <cell>12</cell>
+                        <cell>39</cell>
+                        <cell>96</cell>
+                        <cell>720</cell>
+                        <cell role="total">855</cell>
+                     </row>
+                     <row>
+                        <cell>The Duke of <hi>York</hi>'s Regiment.</cell>
+                        <cell>12</cell>
+                        <cell>39</cell>
+                        <cell>96</cell>
+                        <cell>630</cell>
+                        <cell role="total">765</cell>
+                     </row>
+                     <row>
+                        <cell>The <hi>Holland</hi> Regiment</cell>
+                        <cell>12</cell>
+                        <cell>39</cell>
+                        <cell>96</cell>
+                        <cell>600</cell>
+                        <cell role="total">735</cell>
+                     </row>
+                     <row>
+                        <cell>Independent Companies</cell>
+                        <cell>26</cell>
+                        <cell>78</cell>
+                        <cell>208</cell>
+                        <cell>1260</cell>
+                        <cell role="total">1546</cell>
+                     </row>
+                     <row role="total">
+                        <cell>Total Foot in <hi>England</hi>
+                        </cell>
+                        <cell>88</cell>
+                        <cell>283</cell>
+                        <cell>688</cell>
+                        <cell>4790</cell>
+                        <cell role="total">5761</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="tables_of_military_forces">
+               <pb n="31" facs="tcp:107814:20"/>
+               <head>King <hi>Charles</hi> the Second's Eſtabliſhment in <hi>Ireland</hi> in the Year Eighty.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Com<g ref="char:EOLhyphen"/>miſ. Offi<g ref="char:EOLhyphen"/>cers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Private Men.</hi>
+                        </cell>
+                        <cell role="total">
+                           <hi>Total Number.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Troops of Horſe</cell>
+                        <cell>24</cell>
+                        <cell>96</cell>
+                        <cell>196</cell>
+                        <cell>1080</cell>
+                        <cell role="total">1372</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>His Foot in</hi> Ireland.</cell>
+                        <cell cols="5"> </cell>
+                     </row>
+                     <row>
+                        <cell>Yeomen of the Guard</cell>
+                        <cell>1</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                        <cell>60</cell>
+                        <cell role="total">63</cell>
+                     </row>
+                     <row>
+                        <cell>A Regiment of Guards</cell>
+                        <cell>12</cell>
+                        <cell>40</cell>
+                        <cell>99</cell>
+                        <cell>1120</cell>
+                        <cell role="total">1259</cell>
+                     </row>
+                     <row>
+                        <cell>Single Companies</cell>
+                        <cell>74</cell>
+                        <cell>222</cell>
+                        <cell>444</cell>
+                        <cell>4440</cell>
+                        <cell role="total">5166</cell>
+                     </row>
+                     <row role="total">
+                        <cell>Total Foot in <hi>Ireland</hi>
+                        </cell>
+                        <cell>87</cell>
+                        <cell>265</cell>
+                        <cell>543</cell>
+                        <cell>5620</cell>
+                        <cell role="total">6428</cell>
+                     </row>
+                     <row>
+                        <cell cols="6">I have not here put down the Gariſon of <hi>Tangier,</hi> which was about three thouſand Men, becauſe that place is now loſt, and conſequently wants no Gariſon.</cell>
+                     </row>
+                     <row>
+                        <cell cols="6">I will now ſet down his preſent Majeſty's Eſtabliſhment, and then compare them both together.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Horſe and Dragoons upon the</hi> Engliſh <hi>Eſtabliſhment.</hi>
+                        </cell>
+                        <cell cols="5"> </cell>
+                     </row>
+                     <row>
+                        <cell>Three Troops of Horſe Guards</cell>
+                        <cell>3</cell>
+                        <cell>48</cell>
+                        <cell>15</cell>
+                        <cell>600</cell>
+                        <cell role="total">663</cell>
+                     </row>
+                     <row>
+                        <cell>One Troop of Dutch Guards</cell>
+                        <cell>1</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>200</cell>
+                        <cell role="total">220</cell>
+                     </row>
+                     <row>
+                        <cell>One Troop of Horſe Grana<g ref="char:EOLhyphen"/>diers</cell>
+                        <cell>1</cell>
+                        <cell>11</cell>
+                        <cell>20</cell>
+                        <cell>180</cell>
+                        <cell role="total">211</cell>
+                     </row>
+                     <row>
+                        <cell>Lord <hi>Oxford</hi>'s Regiment</cell>
+                        <cell>9</cell>
+                        <cell>40</cell>
+                        <cell>45</cell>
+                        <cell>531</cell>
+                        <cell role="total">616</cell>
+                     </row>
+                     <row>
+                        <cell>Lord <hi>Portland</hi>'s Horſe Dutch Regiment</cell>
+                        <cell>9</cell>
+                        <cell>42</cell>
+                        <cell>54</cell>
+                        <cell>603</cell>
+                        <cell role="total">699</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lumley</hi>'s Regiment</cell>
+                        <cell>9</cell>
+                        <cell>40</cell>
+                        <cell>45</cell>
+                        <cell>531</cell>
+                        <cell role="total">616</cell>
+                     </row>
+                     <pb n="32" facs="tcp:107814:21"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Com<g ref="char:EOLhyphen"/>miſ. Offi<g ref="char:EOLhyphen"/>cers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Private Men.</hi>
+                        </cell>
+                        <cell role="total">
+                           <hi>Total Number.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wood</hi>'s</cell>
+                        <cell>6</cell>
+                        <cell>28</cell>
+                        <cell>36</cell>
+                        <cell>354</cell>
+                        <cell role="total">412</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Arran</hi>'s</cell>
+                        <cell>6</cell>
+                        <cell>28</cell>
+                        <cell>36</cell>
+                        <cell>354</cell>
+                        <cell role="total">412</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Windham</hi>'s</cell>
+                        <cell>6</cell>
+                        <cell>28</cell>
+                        <cell>36</cell>
+                        <cell>354</cell>
+                        <cell role="total">412</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Schomberg</hi>'s</cell>
+                        <cell>6</cell>
+                        <cell>28</cell>
+                        <cell>36</cell>
+                        <cell>354</cell>
+                        <cell role="total">412</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Macclesfield</hi>'s</cell>
+                        <cell>6</cell>
+                        <cell>28</cell>
+                        <cell>36</cell>
+                        <cell>354</cell>
+                        <cell role="total">412</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Raby</hi>'s Dragoons</cell>
+                        <cell>8</cell>
+                        <cell>37</cell>
+                        <cell>72</cell>
+                        <cell>480</cell>
+                        <cell role="total">589</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Flood</hi>'s Dragoons</cell>
+                        <cell>8</cell>
+                        <cell>37</cell>
+                        <cell>72</cell>
+                        <cell>480</cell>
+                        <cell role="total">589</cell>
+                     </row>
+                     <row>
+                        <cell>Lord <hi>Eſſex</hi>'s Dragoons</cell>
+                        <cell>8</cell>
+                        <cell>37</cell>
+                        <cell>72</cell>
+                        <cell>480</cell>
+                        <cell role="total">589</cell>
+                     </row>
+                     <row role="total">
+                        <cell>Total Horſe and Dragoons in <hi>England</hi>
+                        </cell>
+                        <cell>86</cell>
+                        <cell>447</cell>
+                        <cell>580</cell>
+                        <cell>5855</cell>
+                        <cell role="total">6876</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Foot on the Engliſh Eſta<g ref="char:EOLhyphen"/>bliſhment.</hi>
+                        </cell>
+                        <cell cols="5"> </cell>
+                     </row>
+                     <row>
+                        <cell>Gentlemen Penſioners</cell>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                        <cell>0</cell>
+                        <cell>40</cell>
+                        <cell role="total">46</cell>
+                     </row>
+                     <row>
+                        <cell>Yeomen of the Guard</cell>
+                        <cell>1</cell>
+                        <cell>7</cell>
+                        <cell>0</cell>
+                        <cell>100</cell>
+                        <cell role="total">107</cell>
+                     </row>
+                     <row>
+                        <cell>Lord <hi>Rumney</hi>'s four Battalions</cell>
+                        <cell>28</cell>
+                        <cell>99</cell>
+                        <cell>222</cell>
+                        <cell>2240</cell>
+                        <cell role="total">2563</cell>
+                     </row>
+                     <row>
+                        <cell>Lord <hi>Cutt</hi>'s two Battalions</cell>
+                        <cell>14</cell>
+                        <cell>51</cell>
+                        <cell>112</cell>
+                        <cell>1120</cell>
+                        <cell role="total">1283</cell>
+                     </row>
+                     <row>
+                        <cell>The blew Guards a Dutch Re<g ref="char:EOLhyphen"/>giment, four Battalions</cell>
+                        <cell>26</cell>
+                        <cell>96</cell>
+                        <cell>208</cell>
+                        <cell>2366</cell>
+                        <cell role="total">2670</cell>
+                     </row>
+                     <row>
+                        <cell>Earl of <hi>Orkney</hi>'s a Scotch Re<g ref="char:EOLhyphen"/>giment</cell>
+                        <cell>26</cell>
+                        <cell>88</cell>
+                        <cell>208</cell>
+                        <cell>1560</cell>
+                        <cell role="total">1656</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Selwin</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Churchil</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Trelawny</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Earle</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Seymour</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Colt</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Mordant</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>David Collier</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Charles Hero</hi>'s Fuſileers in <hi>Jerſey</hi>
+                        </cell>
+                        <cell>13</cell>
+                        <cell>46</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">930</cell>
+                     </row>
+                     <pb n="33" facs="tcp:107814:21"/>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Com<g ref="char:EOLhyphen"/>miſſion Officers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Private Men.</hi>
+                        </cell>
+                        <cell role="total">
+                           <hi>Total Number.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Collingwood</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>46</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>A Company at <hi>
+                              <g ref="char:V">Ʋ</g>pnor</hi> Caſtle</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                        <cell>50</cell>
+                        <cell role="total">58</cell>
+                     </row>
+                     <row role="total">
+                        <cell>Total Foot in <hi>England</hi>
+                        </cell>
+                        <cell>227</cell>
+                        <cell>793</cell>
+                        <cell>1796</cell>
+                        <cell>15276</cell>
+                        <cell role="total">17865</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Horſe and Dragoons upon the <hi>Iriſh</hi> Eſtabliſhment.</cell>
+                        <cell cols="5"> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Luſon</hi>'s</cell>
+                        <cell>6</cell>
+                        <cell>42</cell>
+                        <cell>30</cell>
+                        <cell>354</cell>
+                        <cell role="total">412</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Langston</hi>'s</cell>
+                        <cell>6</cell>
+                        <cell>42</cell>
+                        <cell>30</cell>
+                        <cell>354</cell>
+                        <cell role="total">412</cell>
+                     </row>
+                     <row>
+                        <cell>Lord <hi>Gallaway</hi>'s a <hi>French</hi> Regiment</cell>
+                        <cell>9</cell>
+                        <cell>113</cell>
+                        <cell>45</cell>
+                        <cell>531</cell>
+                        <cell role="total">689</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Roſs</hi>'s Dragoons</cell>
+                        <cell>8</cell>
+                        <cell>37</cell>
+                        <cell>72</cell>
+                        <cell>480</cell>
+                        <cell role="total">589</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ecklins</hi>'s</cell>
+                        <cell>8</cell>
+                        <cell>37</cell>
+                        <cell>72</cell>
+                        <cell>480</cell>
+                        <cell role="total">589</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Cunningham</hi>'s</cell>
+                        <cell>8</cell>
+                        <cell>37</cell>
+                        <cell>72</cell>
+                        <cell>480</cell>
+                        <cell role="total">589</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Mermon</hi>'s a <hi>French</hi> Regiment</cell>
+                        <cell>8</cell>
+                        <cell>74</cell>
+                        <cell>144</cell>
+                        <cell>480</cell>
+                        <cell role="total">698</cell>
+                     </row>
+                     <row role="total">
+                        <cell>Total Horſe and Dragoons in <hi>Ireland</hi>
+                        </cell>
+                        <cell>53</cell>
+                        <cell>338</cell>
+                        <cell>465</cell>
+                        <cell>3159</cell>
+                        <cell role="total">3962</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Foot upon the <hi>Iriſh</hi> Eſtabliſhment, with the disbanded Officers incorporated.</cell>
+                        <cell cols="5"> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fairfax</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Collumbine</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Webb</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Granvill</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Brewer</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jacob</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>How</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Steward</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hanmore</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Titcomb</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <pb n="34" facs="tcp:107814:22"/>
+                     <row>
+                        <cell>
+                           <hi>Stanley</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bridges</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fr. Hamilton</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ingoldsby</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Piſar</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Bellaſis</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Guſtavus Hamilton</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Tiffany</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>66</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">950</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Martoon</hi>'s a <hi>French</hi> Regiment</cell>
+                        <cell>13</cell>
+                        <cell>83</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">967</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lamellioneer</hi>'s a <hi>French</hi> Regiment</cell>
+                        <cell>13</cell>
+                        <cell>83</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">967</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Beleaſtle</hi>'s a <hi>French</hi> Regiment</cell>
+                        <cell>13</cell>
+                        <cell>83</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">967</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Holt</hi>'s Regiment in the <hi>Weſt-Indies</hi> which is not upon the <hi>Iriſh</hi> Eſta<g ref="char:EOLhyphen"/>bliſhment</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row role="total">
+                        <cell>Total Foot in <hi>Ireland</hi>
+                        </cell>
+                        <cell>286</cell>
+                        <cell>1481</cell>
+                        <cell>2288</cell>
+                        <cell>17160</cell>
+                        <cell role="total">20929</cell>
+                     </row>
+                  </table>
+               </p>
+               <div type="table_comparing_military_forces">
+                  <p>
+                     <table>
+                        <head>I will now compare both Eſtabliſhments together.</head>
+                        <row>
+                           <cell> </cell>
+                           <cell>
+                              <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Com<g ref="char:EOLhyphen"/>miſſion Officers.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Private Men.</hi>
+                           </cell>
+                           <cell role="total">
+                              <hi>Total Number.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">
+                              <hi>Charles</hi> the <hi>2d</hi>'s Horſe in Eighty in <hi>England</hi>
+                           </cell>
+                           <cell>12</cell>
+                           <cell>86</cell>
+                           <cell>63</cell>
+                           <cell>1040</cell>
+                           <cell role="total">1189</cell>
+                        </row>
+                        <row>
+                           <cell>His Foot in <hi>England</hi>
+                           </cell>
+                           <cell>88</cell>
+                           <cell>283</cell>
+                           <cell>688</cell>
+                           <cell>4790</cell>
+                           <cell role="total">5761</cell>
+                        </row>
+                        <row role="total">
+                           <cell>His Horſe and Foot in <hi>England</hi>
+                           </cell>
+                           <cell>100</cell>
+                           <cell>369</cell>
+                           <cell>751</cell>
+                           <cell>5830</cell>
+                           <cell role="total">6950</cell>
+                        </row>
+                        <row>
+                           <cell role="label" cols="6">His Eſtabliſhment in <hi>Ireland.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>His Horſe in <hi>Ireland</hi>
+                           </cell>
+                           <cell>24</cell>
+                           <cell>96</cell>
+                           <cell>196</cell>
+                           <cell>1080</cell>
+                           <cell role="total">1372</cell>
+                        </row>
+                        <row>
+                           <cell>His Foot in <hi>Ireland</hi>
+                           </cell>
+                           <cell>87</cell>
+                           <cell>265</cell>
+                           <cell>543</cell>
+                           <cell>5620</cell>
+                           <cell role="total">6428</cell>
+                        </row>
+                        <row role="total">
+                           <cell>His Horſe and Foot in <hi>Ireland</hi>
+                           </cell>
+                           <cell>111</cell>
+                           <cell>361</cell>
+                           <cell>739</cell>
+                           <cell>6700</cell>
+                           <cell role="total">7800</cell>
+                        </row>
+                        <pb n="35" facs="tcp:107814:22"/>
+                        <row>
+                           <cell role="label">
+                              <hi>All his Army in</hi> England <hi>and</hi> Ireland.</cell>
+                           <cell>
+                              <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Com<g ref="char:EOLhyphen"/>miſſion Officers</hi>
+                           </cell>
+                           <cell>
+                              <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Private Men.</hi>
+                           </cell>
+                           <cell role="total">
+                              <hi>Total Number.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>His Horſe in <hi>England</hi> and <hi>Ireland</hi>
+                           </cell>
+                           <cell>36</cell>
+                           <cell>182</cell>
+                           <cell>259</cell>
+                           <cell>2120</cell>
+                           <cell role="total">2561</cell>
+                        </row>
+                        <row>
+                           <cell>His Foot in <hi>England</hi> and <hi>Ireland</hi>
+                           </cell>
+                           <cell>175</cell>
+                           <cell>548</cell>
+                           <cell>1231</cell>
+                           <cell>10410</cell>
+                           <cell role="total">12189</cell>
+                        </row>
+                        <row role="total">
+                           <cell>All his Army in <hi>England</hi> and <hi>Ireland</hi>
+                           </cell>
+                           <cell>211</cell>
+                           <cell>730</cell>
+                           <cell>1490</cell>
+                           <cell>12530</cell>
+                           <cell role="total">14750</cell>
+                        </row>
+                        <row>
+                           <cell role="label" cols="6">King <hi>William's</hi> Eſtabliſhment.</cell>
+                        </row>
+                        <row>
+                           <cell>His Horſe in <hi>England</hi>
+                           </cell>
+                           <cell>86</cell>
+                           <cell>441</cell>
+                           <cell>580</cell>
+                           <cell>5855</cell>
+                           <cell role="total">6876</cell>
+                        </row>
+                        <row>
+                           <cell>His Foot in <hi>England</hi>
+                           </cell>
+                           <cell>227</cell>
+                           <cell>793</cell>
+                           <cell>1796</cell>
+                           <cell>15276</cell>
+                           <cell role="total">17865</cell>
+                        </row>
+                        <row role="total">
+                           <cell>All his Forces in <hi>England</hi>
+                           </cell>
+                           <cell>313</cell>
+                           <cell>1234</cell>
+                           <cell>2376</cell>
+                           <cell>21131</cell>
+                           <cell role="total">24741</cell>
+                        </row>
+                        <row>
+                           <cell role="label" cols="6">His Eſtabliſhment in <hi>Ireland.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>His Horſe in <hi>Ireland</hi>
+                           </cell>
+                           <cell>53</cell>
+                           <cell>338</cell>
+                           <cell>465</cell>
+                           <cell>3159</cell>
+                           <cell role="total">3962</cell>
+                        </row>
+                        <row>
+                           <cell>His Foot in <hi>Ireland</hi>
+                           </cell>
+                           <cell>286</cell>
+                           <cell>1481</cell>
+                           <cell>2288</cell>
+                           <cell>17160</cell>
+                           <cell role="total">20929</cell>
+                        </row>
+                        <row role="total">
+                           <cell>All his Forces in <hi>Ireland</hi>
+                           </cell>
+                           <cell>339</cell>
+                           <cell>1819</cell>
+                           <cell>2753</cell>
+                           <cell>20319</cell>
+                           <cell role="total">24891</cell>
+                        </row>
+                        <row>
+                           <cell role="label" cols="6">All his Army in <hi>England</hi> and <hi>Ireland.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>His Horſe and Dragoons in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland</hi>
+                           </cell>
+                           <cell>139</cell>
+                           <cell>779</cell>
+                           <cell>1045</cell>
+                           <cell>9014</cell>
+                           <cell role="total">10838</cell>
+                        </row>
+                        <row>
+                           <cell>His Foot in <hi>England</hi> and <hi>Ireland</hi>
+                           </cell>
+                           <cell>513</cell>
+                           <cell>2274</cell>
+                           <cell>4084</cell>
+                           <cell>32436</cell>
+                           <cell role="total">38794</cell>
+                        </row>
+                        <row role="total">
+                           <cell>All his Army in <hi>England</hi> and <hi>Ireland</hi>
+                           </cell>
+                           <cell>652</cell>
+                           <cell>3053</cell>
+                           <cell>5129</cell>
+                           <cell>41450</cell>
+                           <cell role="total">49632</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>So that his preſent Majeſty in <hi>England</hi> and <hi>Ireland</hi> alone has above three times as many Troops and Companies as <hi>Charles</hi> the Second had in the Year eighty, almoſt five times as many Com<g ref="char:EOLhyphen"/>miſſion Officers, near four times as many Non-Commiſſion Offi<g ref="char:EOLhyphen"/>cers; and when the Commanders ſhall have Orders to recruit their Companies, will have more than three times the number of common Soldiers, beſides the disbanded Officers which are not
+<pb n="36" facs="tcp:107814:23"/>incorporated into other Regiments; and upon the Eſtabliſhment they now ſtand, are as much Creatures to the Court, as if their Regiments were in being.</p>
+               </div>
+            </div>
+            <div type="table_of_military_forces">
+               <head>His Majeſty's Forces in <hi>Scotland,</hi> which in the Year Eighty conſiſted of <hi>2806</hi> Men.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Com<g ref="char:EOLhyphen"/>miſſion Officers</hi>
+                        </cell>
+                        <cell>
+                           <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Private Men.</hi>
+                        </cell>
+                        <cell role="total">
+                           <hi>Total Number.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The Troop of Guards</cell>
+                        <cell>1</cell>
+                        <cell>15</cell>
+                        <cell>5</cell>
+                        <cell>120</cell>
+                        <cell role="total">140</cell>
+                     </row>
+                     <row>
+                        <cell>The Royal Regiment of Dragoons</cell>
+                        <cell>8</cell>
+                        <cell>37</cell>
+                        <cell>72</cell>
+                        <cell>320</cell>
+                        <cell role="total">429</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jedborough</hi>'s Dragoons</cell>
+                        <cell>6</cell>
+                        <cell>27</cell>
+                        <cell>54</cell>
+                        <cell>240</cell>
+                        <cell role="total">321</cell>
+                     </row>
+                     <row>
+                        <cell>The Royal Regiment of Foot Guards</cell>
+                        <cell>16</cell>
+                        <cell>51</cell>
+                        <cell>128</cell>
+                        <cell>912</cell>
+                        <cell role="total">1091</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rew</hi>'s Fuſileers</cell>
+                        <cell>16</cell>
+                        <cell>51</cell>
+                        <cell>128</cell>
+                        <cell>640</cell>
+                        <cell role="total">819</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Collier</hi> or <hi>Hamilton</hi>'s</cell>
+                        <cell>16</cell>
+                        <cell>51</cell>
+                        <cell>128</cell>
+                        <cell>640</cell>
+                        <cell role="total">819</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Maitland</hi>'s</cell>
+                        <cell>16</cell>
+                        <cell>51</cell>
+                        <cell>128</cell>
+                        <cell>640</cell>
+                        <cell role="total">819</cell>
+                     </row>
+                     <row>
+                        <cell>In Gariſons</cell>
+                        <cell>4</cell>
+                        <cell>12</cell>
+                        <cell>24</cell>
+                        <cell>295</cell>
+                        <cell role="total">331</cell>
+                     </row>
+                     <row role="total">
+                        <cell>All his Forces in <hi>Scotland</hi>
+                        </cell>
+                        <cell>83</cell>
+                        <cell>295</cell>
+                        <cell>667</cell>
+                        <cell>3807</cell>
+                        <cell role="total">4769</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Theſe Forces are as they are now reduc'd and allow'd by the Parliament of <hi>Scotland,</hi> for Reaſons beſt known to themſelves; which without doubt muſt be very good ones, ſince 'tis common<g ref="char:EOLhyphen"/>ly ſaid, that ten Privy Counſellors of that Kingdom, who ap<g ref="char:EOLhyphen"/>pear'd againſt the Army, are turn'd out of the Council; which, if true, I preſume will be a ſufficient warning to our Gentlemen at home.</p>
+               <p>However, there is this uſe in the <hi>Scotch</hi> Army, that if the Par<g ref="char:EOLhyphen"/>liament of <hi>England</hi> ſhall be prevail'd on to think any Forces ne<g ref="char:EOLhyphen"/>ceſſary, a leſſer Number will be ſufficient.</p>
+            </div>
+            <div type="table_of_military_forces">
+               <pb n="37" facs="tcp:107814:23"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">
+                           <hi>His Majeſty's Forces in</hi> Holland.</cell>
+                        <cell>
+                           <hi>Troops and Com<g ref="char:EOLhyphen"/>panies.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Com<g ref="char:EOLhyphen"/>miſſion Officers</hi>
+                        </cell>
+                        <cell>
+                           <hi>Non-Com<g ref="char:EOLhyphen"/>miſ. Of<g ref="char:EOLhyphen"/>ficers.</hi>
+                        </cell>
+                        <cell>
+                           <hi>Private Men.</hi>
+                        </cell>
+                        <cell role="total">
+                           <hi>Total Number.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lawder</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Collins</hi>
+                        </cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Murray</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ferguſon</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Stranaver</hi>'s</cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>13</cell>
+                        <cell>44</cell>
+                        <cell>104</cell>
+                        <cell>780</cell>
+                        <cell role="total">928</cell>
+                     </row>
+                     <row role="total">
+                        <cell>All the Forces in <hi>Holland</hi>
+                        </cell>
+                        <cell>78</cell>
+                        <cell>264</cell>
+                        <cell>624</cell>
+                        <cell>4680</cell>
+                        <cell role="total">5568</cell>
+                     </row>
+                     <row>
+                        <cell cols="6"> </cell>
+                     </row>
+                     <row role="total">
+                        <cell role="label">☞ SO that his Majeſty's whole Army conſiſts of</cell>
+                        <cell>813</cell>
+                        <cell>3612</cell>
+                        <cell>6420</cell>
+                        <cell>49937</cell>
+                        <cell role="total">59969</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Of theſe ſeven thouſand, eight hundred, and ſeventy ſeven, are Foreigners, which is the firſt foreign Army that ever ſet foot in <hi>England</hi> but as Enemies.</p>
+               <p>Since the writing of this I am informed, that <hi>Brudenall</hi>'s Regi<g ref="char:EOLhyphen"/>ment is in being, and that <hi>Eppinger</hi>'s Dragoons are in <hi>Engliſh</hi> Pay, which if true, will make the whole Army ſixty odd thouſand Men: but in this as well as many other Parts of the Liſt I may be miſtaken, for which I hope I ſhall be excuſed, when I acquaint the Reader that I was forced to pick it out from accidental Diſcourſes with Officers, having apply'd to my Lord <hi>R</hi>—'s Office with<g ref="char:EOLhyphen"/>out Succeſs, tho I made ſuch Intereſt for it as upon another occa<g ref="char:EOLhyphen"/>ſion would not have bin refuſed.</p>
+            </div>
+            <div type="part">
+               <p>If the Prince of <hi>Orange</hi> in his Declaration, inſtead of telling us that we ſhould be ſettled upon ſuch a foundation that there ſhould be no danger of our falling again into Slavery, and that he would ſend back all his Forces as ſoon as that was done, had promis'd us that after an eight Years War (which ſhould leave us in Debt near twenty Millions) we ſhould have a Standing Army eſtabliſh'd, a great many of which ſhould be Foreigners, I believe few Men would have thought ſuch a Revolution worth the hazard of their Lives and Eſtates; but his mighty Soul was above ſuch abject thoughts as theſe; his Declaration was his
+<pb n="38" facs="tcp:107814:24"/>own, theſe paltry Deſigns are our Undertakers, who would ſhelter their own Oppreſſions under his Sacred Name.</p>
+               <p>I would willingly know whether the late King <hi>James</hi> could have inſlaved us but by an Army, and whether there is any way of ſcouring us from falling again into Slavery but by disbanding them. It was in that ſenſe I underſtood his Majeſty's Decla<g ref="char:EOLhyphen"/>ration, and therfore did early take up Arms for him, as I ſhall be always ready to do. It was this alone which made his aſ<g ref="char:EOLhyphen"/>ſiſtance neceſſary to us, otherwiſe we had wanted none but the Hangman's.</p>
+               <p>I will venture to ſay, that if this Army dos not make us Slaves, we are the only People upon Earth in ſuch Circumſtances that ever eſcap'd it with the <hi>4th</hi> part of their number. It is a great<g ref="char:EOLhyphen"/>er force than <hi>Alexander</hi> conquer'd the Eaſt with, than <hi>Caeſar</hi> had in his Conqueſt of <hi>Gaul,</hi> or indeed the whole <hi>Roman</hi> Em<g ref="char:EOLhyphen"/>pire; double the number that any of our Anceſtors ever in<g ref="char:EOLhyphen"/>vaded <hi>France</hi> with, <hi>Ageſilaus</hi> the <hi>Perſians,</hi> or <hi>Huniades</hi> and <hi>Scan<g ref="char:EOLhyphen"/>derbeg</hi> the <hi>Turkiſh</hi> Empire; as many again as was in any Battel between the <hi>Dutch</hi> and <hi>Spaniards</hi> in forty Years War, or be<g ref="char:EOLhyphen"/>twixt the King and Parliament in <hi>England;</hi> four times as ma<g ref="char:EOLhyphen"/>ny as the Prince of <hi>Orange</hi> landed with in <hi>England;</hi> and in ſhort, as many as have bin on both ſides in nine Battels of ten that were ever fought in the World. If this Army dos not inſlave us, it is barely becauſe we have a virtuous Prince that will not attemt it; and 'tis a moſt miſerable thing to have no other Se<g ref="char:EOLhyphen"/>curity for our Liberty, than the Will of a Man, tho the moſt juſt Man living: for that is not a free Government where there is a good Prince (for even the moſt arbitrary Governments have had ſomtimes a Relaxation of their Miſeries) but where it is ſo conſtituted, that no one can be a Tyrant if he would. <hi>Cicero</hi> ſays, tho a Maſter dos not tyrannize, yet 'tis a lamentable conſideration that it is in his power to do ſo; and therfore ſuch a Power is to be truſted to none, which if it dos not find a Tyrant, commonly makes one; and if not him, to be ſure a Succeſſor.</p>
+               <p>If any one during the Reign of <hi>Charles</hi> the Second, when thoſe that were call'd <hi>Whigs,</hi> with a noble Spirit of Liberty, both in the Parliament Houſe and in private Companies, oppos'd a few Guards as Badges of Tyranny, a Deſtruction to our Conſtitu<g ref="char:EOLhyphen"/>tion,
+<pb n="39" facs="tcp:107814:24"/>and the Foundations of a Standing Army: I ſay, if any ſhould have told them that a Deliverer ſhould com and reſcue them from the Oppreſſions under which they then labor'd; that <hi>France</hi> by a tedious and conſumtive War ſhould be reduc'd to half the Power it then had; and even at that time they ſhould not only be paſſive, but uſe their utmoſt Intereſt, and diſtort their Reaſon to find out Arguments for keeping up ſo vaſt an Army, and make the Abuſes of which they had bin all their lives complaining, Precedents to juſtify thoſe Procedings; who<g ref="char:EOLhyphen"/>ever would have told them this, muſt have bin very regardleſs of his Reputation, and bin thought to have had a great deal of ill nature. But the truth is, we have lived in an Age of Mira<g ref="char:EOLhyphen"/>cles, and there is nothing ſo extravagant that we may not expect to ſee, when ſurly Patriots grow ſervil Flatterers, old Common<g ref="char:EOLhyphen"/>wealthſmen declare for the Prerogative, and Admirals againſt the Fleet.</p>
+               <p>But I wonder what Arguments in nature our Hirelings will think of for keeping up an Army this year. Good Reaſons lie within a narrow Compaſs, and might be gueſſed at; but non<g ref="char:EOLhyphen"/>ſenſe is infinit. The Arguments they chiefly inſiſted upon laſt year were, That it was uncertain whether the <hi>French</hi> King would deliver up any of his Towns if we disbanded our Army; that King <hi>James</hi> had 18000 Men at his devotion kept by the King of <hi>France;</hi> that a great Fleet was preparing there upon ſom un<g ref="char:EOLhyphen"/>known Deſign; that the King of <hi>Spain</hi> was dying; that there was no Militia ſettled; and that they would keep them up only for a year to ſee how the world went. This with a few Lies about my Lord <hi>Portland</hi>'s and <hi>Bouffler</hi>'s quarrelling, and ſom Pro<g ref="char:EOLhyphen"/>phecies of our being invaded in ſix months, was the ſubſtance of what was ſaid or printed.</p>
+               <p>Now in fact the <hi>French</hi> King has deliver'd up <hi>Giron, Roſes, Belver, Barcelona,</hi> and a great part of the Province of <hi>Catalonia:</hi> The Town and Province of <hi>Luxemburg,</hi> and the County of <hi>Chiny;</hi> the Towns of <hi>Mons, Charleroy, Courtray,</hi> and <hi>Aeth</hi> in the <hi>Spaniſh</hi> Provinces, to the King of <hi>Spain.</hi>
+               </p>
+               <p>The Town of <hi>Dinant</hi> to the Biſhop of <hi>Leige.</hi>
+               </p>
+               <p>The Towns of <hi>Pignerol, Cazal, Suſa, Montmelian, Nice, Villa Franca,</hi> all <hi>Savoy,</hi> and part of <hi>Piemont</hi> to the Duke of <hi>Savoy.</hi>
+               </p>
+               <pb n="40" facs="tcp:107814:25"/>
+               <p>The Cities of <hi>Treves, Germenſheim,</hi> and the Palatinat; the County of <hi>Spanheim, Veldentz,</hi> and Dutchy of <hi>Deuxponts;</hi> the County of <hi>Mombelliand,</hi> and ſom Poſſeſſions of <hi>Burgundy;</hi> the Forts of <hi>Kiel, Friburg, St. Peterfort, Deſtoile;</hi> the Town of <hi>Phi<g ref="char:EOLhyphen"/>lipsburg,</hi> and moſt of <hi>Alſace, Eberenburg,</hi> and the Dutchy of <hi>Lorrain</hi> to the Empire: has demoliſhed <hi>Hunningen, Montroyal</hi> and <hi>Kernburg.</hi>
+               </p>
+               <p>He has delivered up the Principality of <hi>Orange</hi> to the King of <hi>England.</hi>
+               </p>
+               <p>Theſe are vaſt Countries, and contain in bigneſs as much ground as the Kingdom of <hi>England,</hi> and maintained the King of <hi>France</hi> above 100000 Men; beſides, he had laid out vaſt Sums in the Fortifications he delivered up and demoliſhed. Add to this, his Kingdom is miſerably impoveriſhed and depopulated by this War; his Manufactures much impaired; great numbers of Offices have bin erected, which like Leeches draw away the Peoples blood; prodigious Debts contracted, and a moſt bene<g ref="char:EOLhyphen"/>ficial Trade with <hi>England</hi> loſt. Theſe things being conſidered, there can be little danger of their ſhewing over much wantonneſs, eſpecially for ſom years: and yet ſtill we muſt be bullied by the name of <hi>France,</hi> and the Fear of it muſt do what their Power could never yet effect: which is a little too groſs, conſidering they were inſlaved by the ſame means. For in <hi>Lewis</hi> the <hi>11th</hi>'s time, the <hi>French</hi> gave up their Liberties for fear of <hi>England,</hi> and now we muſt give up ours for fear of <hi>France.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> Moſt of King <hi>James</hi>'s <hi>Engliſh</hi> and <hi>Iriſh</hi> Forces which we have bin ſo often threatned with, are disbanded; and he is ſaid to ſubſiſt upon his Majeſty's Charity, which will be a ſuffi<g ref="char:EOLhyphen"/>cient Caution for his good behaviour.</p>
+               <p>
+                  <hi>Thirdly,</hi> The <hi>French</hi> Fleet, which was another Bugbear, ex<g ref="char:EOLhyphen"/>ceeded not this year 20 Sail, nor attemted any thing, tho we had no Fleet out to oppoſe them.</p>
+               <p>
+                  <hi>Fourthly,</hi> The King of <hi>Spain</hi> is not dead, nor in a more dan<g ref="char:EOLhyphen"/>gerous Condition than he has bin for ſom years; and we are not without hopes that his Majeſty by his extraordinary Prudence has taken ſuch care as to prevent a new War in caſe he ſhould die.</p>
+               <p>
+                  <hi>Fifthly,</hi> As to the Militia, I ſuppoſe every Man is now ſatiſ<g ref="char:EOLhyphen"/>fied
+<pb n="41" facs="tcp:107814:25"/>that we muſt never expect to ſee it made uſeful till we have disbanded the Army. I would not be here underſtood to throw the whole odium of that matter upon the Court; for there are ſeveral other Parties in <hi>England,</hi> that are not over-zealous for a Militia. Firſt, thoſe who are for reſtoring K. <hi>James</hi>'s Trum<g ref="char:EOLhyphen"/>pery, and would have the Army disbanded, and no Force ſettled in the room of it. Next, there are a mungrel ſort of Men who are not direct Enemies to the King, yet becauſe their fancied merit is not rewarded at their own price, they are ſo ſhagreen that they will not let him have the Reputation of ſo noble an Eſtabliſhment. Beſides theſe, there are others that having no notion of any Militia but our own, and being utterly unac<g ref="char:EOLhyphen"/>quainted with antient and modern Hiſtory, think it impracti<g ref="char:EOLhyphen"/>cable: and ſom wretched things are againſt it becauſe of the Charge; whereas if their Mothers had taught them to caſt ac<g ref="char:EOLhyphen"/>count, they would have found out that 52000 Men for a month will be but the ſame charge to the Subject as four thouſand for a year, ſuppoſing the pay to be the ſame; and reckoning it to be a third part greater, it will be equivalent to the charge of 6000: and if we ſhould allow them to be out a fortnight longer than was deſigned by the laſt Bill for exerciſing in leſſer Bodies, then the utmoſt Charge of ſuch a Militia will be no more than to keep up 9000 Men the year round. None of the Parties I mention'd will openly oppoſe a Militia, tho they would be all glad to drop it: and I believe no body will be ſo hardy as to de<g ref="char:EOLhyphen"/>ny, but if the Court would ſhew as much vigor in proſecuting it, as they did laſt year to keep up a Standing Army, that a Bill would paſs; which they will certainly do if we disband the Army, and they think it neceſſary; and if they do not, we have no reaſon to think an Army ſo. When they tell us we may be invaded in the mean time, they are not in earneſt; for we all know if the King of <hi>France</hi> has any deſigns, they look another way: beſides, he has provided no Tranſports, nor is in any readineſs to make an Invaſion; and if he was, we have a Fleet to hinder him; nay, even the Militia we have in <hi>London</hi> and ſom other Counties, are moderatly exercis'd: and I believe thoſe who ſpeak moſt contemtibly of them will allow 'em to have natural Courage, and as good Limbs as other People; and
+<pb n="42" facs="tcp:107814:26"/>if they will allow nothing elſe, then here is an Army of a hun<g ref="char:EOLhyphen"/>dred or ſixſcore thouſand Men, ready liſted, regimented, horſ<g ref="char:EOLhyphen"/>ed and armed: and if there ſhould be any occaſion, his Majeſty can put what Officers he pleaſes of the old Army over them, and the Parliament will be ſitting to give him what Powers ſhall be neceſſary. We may add to this, that the disbanded Soldiers in all probability will be part of this body; and then what fear can there be of a ſcambling Invaſion of a few Men?</p>
+               <p>I have avoided in this place diſcourſing of the nature of Mili<g ref="char:EOLhyphen"/>tia's, that Subject having been ſo fully handled already; only thus much I will obſerve, that a Standing Army in Peace will grow more effeminat by living diſſolutely in Quarters, than a Militia that for the moſt part will be exerciſed with hard labor. So that upon the whole matter, a Standing Army in Peace will be worſe than a Militia; and in War a Militia will ſoon becom a diſciplin'd Army.</p>
+               <p>
+                  <hi>Sixthly,</hi> The Army has bin kept up for a Year, which is all was pretended to; and notwithſtanding their Prophecies, we have had no Invaſion, nor danger of one.</p>
+               <p>
+                  <hi>Laſtly,</hi> The Earl of <hi>Portland</hi> and Marſhal <hi>Boufflers</hi> were ſo far from quarrelling, that perhaps no <hi>Engliſh</hi> Ambaſſador was ever received in <hi>France</hi> with more Honor.</p>
+               <p>But further, there is a Criſis in all Affairs, which when once loſt, is never to be retrieved. Several Accidents concur to make the disbanding the Army practicable now, which may not happen again. We have a new Parliament, uncorrupted by the Intrigues of the Courtiers: beſides, the Soldiers themſelves hi<g ref="char:EOLhyphen"/>therto have known little but the Fatigues of a War, and have bin ſo paid ſince, that the privat Men would be glad to be diſ<g ref="char:EOLhyphen"/>banded; and the Officers would not be very uneaſy at it, con<g ref="char:EOLhyphen"/>ſidering they are to have half Pay, which we muſt not expect them hereafter when they have lived in Riot and Luxury. Add to this, we have a good Prince, whoſe Inclinations as well as Circumſtances will oblige him to comply with the reaſonable Deſires of his People. But let us not flatter our ſelves, this will not be always ſo. If the Army ſhould be continued a few years, they will be accounted part of the Prerogative, and 'twill be thought as great a violation to attemt the disbanding them, as
+<pb n="43" facs="tcp:107814:26"/>the Guards in <hi>Charles</hi> the Second's time; it ſhall be interpreted a deſign to dethrone the King, and be made an Argument for the keeping them up.</p>
+               <p>But there are other Reaſons yet: The public Neceſſities call upon us to contract our charge, that we may be the ſooner out of debt, and in a condition to make a new War; and tis not the keeping great Armies on foot that will inable us to do ſo, but putting our ſelves in a capacity to pay them. We have had the experience of this in eight years War; for we have not bin ſuc<g ref="char:EOLhyphen"/>ceſsful againſt <hi>France</hi> in one Battel, and yet we have neighed it down by mere natural Strength, as I haxe ſeen a heavy Country Booby ſometimes do a nimble Wreſtler: and by the ſame Me<g ref="char:EOLhyphen"/>thod (not our Policy, Occonomy, or Conduct) we muſt encoun<g ref="char:EOLhyphen"/>ter them hereafter, and in order to it ſhould put our ſelves in ſuch Circumſtances, that our Enemies may dread a new Quarrel, which can be no otherwiſe don, but by leſſening our Expences, and paying off the public Ingagements as faſt as we are able. 'Tis a miſerable thing to conſider that we pay near 4000000 <hi>l.</hi> a year upon the account of Funds, no part wherof can be apply'd to the public Service, unleſs they deſign to ſhut up the <hi>Exche<g ref="char:EOLhyphen"/>quer;</hi> which would not be very prudent to own. I would ther<g ref="char:EOLhyphen"/>fore ask ſom of our Men of Management; Suppoſe there ſhould be a new War, how they propoſe to maintain it? For we all now know the end of our Line, we have nothing left but a Land-Tax, a Poll, and ſom few Exciſes, if the Parliament can be pre<g ref="char:EOLhyphen"/>vailed upon to conſent to them. And for once I will ſuppoſe, that all together, with what will fall in a Twelvemonth, will amount to 3000000 <hi>l.</hi> and a half, which is not probable; and we will complement them, by ſuppoſing they ſhall not in caſe of a new War give above fourteen or fifteen <hi>per cent.</hi> for Premiums and Intereſt, then the Remainder will be 3000000 <hi>l.</hi> I believe I may venture to ſay, they will not be very fond of leſſening the Civil Liſt, and loſe their Salaries and Penſions. Then if we deduct 700000 pound <hi>per annum,</hi> upon that account there will be 2300000 pound <hi>per annum</hi> for the uſe of the War, if the People pay the utmoſt penny they are able; ſo that the Que<g ref="char:EOLhyphen"/>ſtion will not be as in the laſt War, how we ſhall carry it on againſt <hi>France</hi> at large, but how 2300000 pound ſhall be diſpoſ<g ref="char:EOLhyphen"/>ed
+<pb n="44" facs="tcp:107814:27"/>of to the greateſt advantage; which I preſume every one will believe ought to be in a good Fleet.</p>
+               <p>This leads me to conſider what will be the beſt, if not the only way of managing a new War in caſe of the King of <hi>Spain</hi>'s death, and a new Rupture with <hi>France;</hi> and I will ſup<g ref="char:EOLhyphen"/>poſe the Nation to be as perfectly free from all incumbrances as before the War. Moſt men at this time of day, I believe, will agree with me that 'tis not our buſineſs to throw Squibs in <hi>Flanders,</hi> ſend out vaſt Sums of Mony to have our Men play at bopeep with the <hi>French,</hi> and at beſt to have their brains beat out againſt ſtone Walls: but if a War is neceſſary there, 'tis our Intereſt to let the <hi>Dutch</hi> and <hi>Germans</hi> manage it, which is proper for their Situation, and let our Province be to undertake the Sea; yet if we have not wit and honeſty enough to make ſuch a bargain with them, but that we bring our ſelves again to a ne<g ref="char:EOLhyphen"/>ceſſity of maintaining Armies there, we may hire Men from <hi>Germany</hi> for half the price we can raiſe them here, and they will be ſooner ready than they can be tranſported from hence, that Country being full of Men, all Soldiers inured to Fatigue, and ſerving for much leſs pay than we give our own: beſides, we ſhall carry on the War at the expence of others blood, and ſave our own People, which are the ſtrength and riches of all Governments; we ſhall ſave the charge of providing for the Officers when the War is don, and not meet with ſuch difficul<g ref="char:EOLhyphen"/>ties in disbanding them.</p>
+               <p>There are ſom Gentlemen that have ſtarted a new method of making War with <hi>France,</hi> and tell us it will be neceſſary to ſend Forces to <hi>Spain</hi> to hinder the <hi>French</hi> from poſſeſſing that Coun<g ref="char:EOLhyphen"/>try; and therfore we muſt keep them up here to be ready for that ſervice: which by the way is acknowledging the Horſe ought to be disbanded, ſince I preſume they don't deſign to ſend them to <hi>Spain.</hi> But to give this a full Anſwer, I believe it is every ones opinion that there ought to be a ſtrong Fleet kept up at <hi>Cales,</hi> or in the <hi>Mediterranean,</hi> ſuperior to the <hi>French;</hi> and then 'twill be eaſier and cheaper to bring the Emperor's Forces by the way of <hi>Final</hi> to <hi>Spain,</hi> than to ſend Men from hence: and they are more likely to be acceptable there, being of the ſame Religion, and Subjects to the Houſe of <hi>Auſtria;</hi> whereas
+<pb n="45" facs="tcp:107814:27"/>'tis to be feared our Men would be in as much danger from that bigotted Nation as from the <hi>French:</hi> beſides, the King of <hi>Potugal</hi> is arming for his own defence, and a ſum of Mony well diſpoſed there, will enable him to raiſe double the Forces upon the ſpot as can be ſent from hence with the ſame charge.</p>
+               <p>But for once I will admit it neceſſary we ſhould ſend Forces both to <hi>Flanders</hi> and <hi>Spain;</hi> yet 'tis no conſequence that we muſt keep up a Standing Army in <hi>England</hi> till that time coms. We may remember <hi>Chrles</hi> the <hi>2d</hi> rais'd between 20 and 30000 Men to fight againſt <hi>France</hi> in leſs than forty days; and the Regi<g ref="char:EOLhyphen"/>ments this King raiſed the firſt year of his Reign were compleat<g ref="char:EOLhyphen"/>ed in a very ſhort time: fart I am of opinion, that a new Army may be raiſed, before Ships and Proviſions will be ready for their tranſportation, at leaſt if the management is no better than 'twas once upon a time; and perhaps it may happen that the King of <hi>Spain</hi> will not die in the ſummer time, and then we ſhall have the winter before us. We may add to this, that the King of <hi>France</hi> has disbanded a great many men, that his Country now lies open in a great many places; that the <hi>Germans</hi> and <hi>Dutch</hi> keep great numbers of Men in conſtant pay; and in all probability there will be a Peace with the <hi>Turks:</hi> That <hi>Portugal</hi> and the <hi>Italian</hi> Princes muſt enter into the Confe<g ref="char:EOLhyphen"/>deracy in their own defence; and that the <hi>French</hi> will lie under an equal neceſſity to raiſe Forces with a much leſs Country than in the former War, to oppoſe ſuch a mighty Union of Princes, who will attach him upon the firſt attemt he makes upon <hi>Spain.</hi>
+               </p>
+               <p>And after all, what's the mighty Advantage we propoſe by keeping this Force? Why forſooth, having a ſmall number of Men more (for the Officers will always be ready, and now a great part of the private Soldiers are to be rais'd in caſe of a new War) ready ſix Weeks ſooner to attack <hi>France.</hi> And I durſt almoſt appeal to theſe Gentlemen themſelves, whether ſo ſmall a Balance againſt <hi>France</hi> is equivalent to the hazard of our Liberties, deſtructiion of our Conſtitution, and the conſtant Ex<g ref="char:EOLhyphen"/>pence of keeping them up, to expect when the King of <hi>Spain</hi> will be pleaſed to die.</p>
+               <p>If theſe Gentlemen are really afraid of a new War, and don't uſe it as a Bugbear to fright us out of our Liberties, and to gain
+<pb n="46" facs="tcp:107814:28"/>their little party-Ends, the way to bring the People into it hear<g ref="char:EOLhyphen"/>tily, is to ſhew them that all their Actions tend to the public Advantage, to leſſen the National Expences, to manage the Revenue with the greateſt frugality, to poſtpone part of their own Salaries, and not grow rich while their Country grows poor, to give their hearty Aſſiſtance for appropriating the <hi>Iriſh</hi> Lands gain'd by the Peoples Blood and Sweat to the public Service, as was promis'd by his Majeſty, and not to ſhew an un<g ref="char:EOLhyphen"/>happy Wit in puniſhing ſom Men, and excuſing others for the ſame fault, and ſpend three Months in Intrigues how to keep up a Standing Army to the dread of the greateſt part of the Nati<g ref="char:EOLhyphen"/>on: for let them fancy what they pleaſe, the People will never conſent to the raiſing a new Army till they are ſatisfied they ſhall be rid of them when the War is don; and there is no way of convincing them of that, but the disbanding theſe with wil<g ref="char:EOLhyphen"/>lingneſs. When we ſee this don, we ſhall believe they are in earneſt, and the People will join unanimouſly in a new War; otherwiſe there will always be a conſiderable part of the Nation (whatever perſonal Honor they have for his Majeſty, or fears of <hi>France</hi>) that will lie upon the Wheels with all their weight, and do them more harm than their Army will do them good.</p>
+               <p>To conclude, we have a wiſe and virtuous Prince, who has al<g ref="char:EOLhyphen"/>ways indeavor'd to pleaſe his People by taking thoſe Men into his Councils which they have recommended to him by their own Choice; and when their Intereſt has declin'd, he has gratified the Nation by turning them out. I would therfore give this ſeaſonable advice to thoſe who were once call'd Whigs, that the way to preſerve their Intereſt with his Majeſty is to keep it with the People; that their old Friends will not deſert them till they deſert their Country, which when they do, they will be left to their own proper Merits: and tho I am not much given to be<g ref="char:EOLhyphen"/>lieving Prophecys, yet I dare be a Prophet for once, and foretel that then they will meet with the fate of King <hi>Phys.</hi> and King <hi>
+                     <g ref="char:V">Ʋ</g>ſh.</hi> in the Rehearſal, <hi>Their new Maſters will turn them off, and no Body elſe will take them.</hi>
+               </p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:107814:28"/>
+            <head>ERRATA.</head>
+            <p>Pref. pag. 6. l. 8, 9. r. <hi>the then King.</hi>
+            </p>
+            <p>P. 15. l. 25. for <hi>four</hi> r. <hi>three.</hi>
+            </p>
+            <p>P. 36. l. 17. for <hi>ſince</hi> r. <hi>and.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
